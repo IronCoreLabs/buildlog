@@ -1,14 +1,334 @@
 [
   {
-    "date": "2022-04-08",
-    "version": "pr-186-Add-rebuild-workflow-and-update",
-    "container_hash": "5bf918d347466858af2105eceb49d0e047f8675ec24a4aa1dc283a183009171a",
-    "git_hash": "7713a3ab2e40c598bd78a04ddc5b4d3e4f0e6824"
+    "version": "0.0.15",
+    "container_hash": "0915846fb0b0286d52e487ebf83d561191e10f8a76bb7e3b0520dfd4439baaea",
+    "git_hash": "a93bb3ab1a17fe08a1ef71ccd4b16ea1dd749f11"
+  },
+  {
+    "version": "0.0.15",
+    "container_hash": "778f6dc44617c278257fbc12f1cddfebeea69e7ef72c53ff33dd470a86b8cae8",
+    "git_hash": "2781ef7221f9626bde5bed91c40cd710f691a320"
+  },
+  {
+    "version": "0.0.15",
+    "container_hash": "a15b651875f552d7b822167a53d28eea5fcc195b9ddeffe7b4d78b95412ef09c",
+    "git_hash": "2781ef7221f9626bde5bed91c40cd710f691a320"
+  },
+  {
+    "version": "0.0.15",
+    "container_hash": "b78ce5a64e9c343f8ffd200413448bbf565e1d7b5fdd93c42a6013c243b98bc7",
+    "git_hash": "a93bb3ab1a17fe08a1ef71ccd4b16ea1dd749f11"
+  },
+  {
+    "version": "0.0.15",
+    "container_hash": "ccb4899c1c8cb20f63db9100f72d32e625e31fbdd839580f79a6748bd6c2f1f8",
+    "git_hash": "8a2c4ab1051bca3ce9b6ef63b616aff068221248"
+  },
+  {
+    "version": "0.0.16",
+    "container_hash": "09133f9f96660959cf71fe25fd100d9671ceceb3cf944d29ad65635216c93aef",
+    "git_hash": "c811c9a574dd761442a353f88cc9146fcecddf4b"
+  },
+  {
+    "version": "0.0.16",
+    "container_hash": "2d051520b817f72403d7aeaa87b695191f6b86ec407f70a50b7de0c6685f42ab",
+    "git_hash": "eeba0fb302ff200715b93a401c4e0c3c6e2471f8"
+  },
+  {
+    "version": "0.0.16",
+    "container_hash": "51e79d6d9e5f389313bedfbff00ba61b84295d1abf44c71acafb2e86785fb138",
+    "git_hash": "83eb58eff91126576bcb7e0467b32a0369ff2910"
+  },
+  {
+    "version": "0.0.16",
+    "container_hash": "55898f4b9642d015a303d23ceb2d7132694e8affebd511e556b3676c897fc428",
+    "git_hash": "eeba0fb302ff200715b93a401c4e0c3c6e2471f8"
+  },
+  {
+    "version": "0.0.16",
+    "container_hash": "f3e46487123ddf431e8c39050c8537d2172d7a7b6f9f43dde39c76399e04e650",
+    "git_hash": "c811c9a574dd761442a353f88cc9146fcecddf4b"
+  },
+  {
+    "version": "1.0.0",
+    "container_hash": "2a0d16fb33c4c36f2c85ea4650788efec115b44d771280bcc41ec640b5928409",
+    "git_hash": "7579edbb638762fa5343d619fdcaa0aff2eaa2dd"
+  },
+  {
+    "version": "1.0.0",
+    "container_hash": "56616e2182bcf45b8d65d3f31cecb92d9dbddaba6c902d41f5197d435a6548b3",
+    "git_hash": "ce500b99a6968fe426f65f4df9bd48014352c67f"
+  },
+  {
+    "version": "1.0.0",
+    "container_hash": "a18b968819abd1b51eadc9046a6f196a8bbb39a4d669629e8718417f7b8cb62b",
+    "git_hash": "ce500b99a6968fe426f65f4df9bd48014352c67f"
+  },
+  {
+    "version": "1.0.0",
+    "container_hash": "a8f1ec5b02aec3c53afcae20319f6dc1c2154ed4ab0bc338cb3a304ad63fffc6",
+    "git_hash": "f6dd450c0129970ed098aaa9ed3b2875e14b9464"
+  },
+  {
+    "version": "1.0.0",
+    "container_hash": "f806168bb11881aeb60450eef9916a2d9079b45267e120ca2ee48afe1fafd7bc",
+    "git_hash": "7579edbb638762fa5343d619fdcaa0aff2eaa2dd"
+  },
+  {
+    "version": "1.1.0",
+    "container_hash": "266120b248506a01ff3664a4756f68462d129694beaa4f6f05532b385a40fa0d",
+    "git_hash": "c32e48f271f4195ec21729876a908a13229ae3bf"
+  },
+  {
+    "version": "1.1.0",
+    "container_hash": "69c4e25dc6c51f3ab44b5fe97ca7a93efbfbec724033c9bdb0dea96b4ca1f11e",
+    "git_hash": "e16dd3249398f8dbd77d9f2c73dcb910bb4f78da"
+  },
+  {
+    "version": "1.1.0",
+    "container_hash": "adaaf1c54dbf47b86bd4da19809e1576ed7c57661f431f74f7dd06aeac8e17cc",
+    "git_hash": "c32e48f271f4195ec21729876a908a13229ae3bf"
+  },
+  {
+    "version": "1.1.0",
+    "container_hash": "e65f2c1ab408b4e36753c471871ce7c094a3dcc9298316a64a9da81348a0d293",
+    "git_hash": "006610105f88b888bf1106b67ee90cf6ca1ba12a"
+  },
+  {
+    "version": "1.1.0",
+    "container_hash": "f1a915ed78e10992c531c3701cb0ff903e4736f629dfa98c4bcc62222756c194",
+    "git_hash": "e16dd3249398f8dbd77d9f2c73dcb910bb4f78da"
+  },
+  {
+    "version": "1.1.1",
+    "container_hash": "181a40875ddbc1177ab226f8ba8c901bfb5f213de3f7c4582e09ff937d41b892",
+    "git_hash": "cdf166e205076a826852ced57c41402270e02622"
+  },
+  {
+    "version": "1.1.1",
+    "container_hash": "491d72e11f61fa7dabe8511bdb3553c958b979550d14220889ea30ca4783653b",
+    "git_hash": "bedaea9bd6c7a65ca30589423c579fbb626e438d"
+  },
+  {
+    "version": "1.1.1",
+    "container_hash": "8b6802c737a84405efa023993eff6bbece6247c13686506b01478712f99e2be4",
+    "git_hash": "b9239c543d8d002b7af29cc9d279f2d65ec6eb4a"
+  },
+  {
+    "version": "1.1.1",
+    "container_hash": "8edcd27c0f5c370d3e8832b3f6e81e663119547dffaf410c80a7ec3033ad39a6",
+    "git_hash": "cdf166e205076a826852ced57c41402270e02622"
+  },
+  {
+    "version": "1.1.1",
+    "container_hash": "dba68e6b00daf4e9dee241913833bf10d118e1651fd4877238e14e23d9aa1c07",
+    "git_hash": "bedaea9bd6c7a65ca30589423c579fbb626e438d"
+  },
+  {
+    "version": "1.2.0",
+    "container_hash": "026cfbfed03ea1bc227983994b611b69b7a14e77ddb00b9ab5c77532084ced2a",
+    "git_hash": "8ce50ea3b981356754a75ab7b9ba90bb80bf014e"
+  },
+  {
+    "version": "1.2.0",
+    "container_hash": "284bff51176f164a4cc81f56562fb1a1bb9696ac319edf6ff6ebb66ad56bfdc9",
+    "git_hash": "d396448e2eb0e36ba78655933b4ac390ce3f1b70"
+  },
+  {
+    "version": "1.2.0",
+    "container_hash": "8c9e52687a504640795fa2c850788897541d44ab418a914e2829c9f04c8c3300",
+    "git_hash": "6ca932cfabbb7ad9d41464bb3dc00c2572f47b91"
+  },
+  {
+    "version": "1.2.0",
+    "container_hash": "bda4e44059cb4955510f97f17248dd36d233be15382bc89b08ea3b236d5b437a",
+    "git_hash": "6ca932cfabbb7ad9d41464bb3dc00c2572f47b91"
+  },
+  {
+    "version": "1.2.0",
+    "container_hash": "ffa7d13b061f1b96509d5b1fc4a7cf525003283d5519a90688d3ecb337c185d1",
+    "git_hash": "8ce50ea3b981356754a75ab7b9ba90bb80bf014e"
+  },
+  {
+    "version": "1.2.1",
+    "container_hash": "0adda79381bcd3a8a90909b084c8f92630eba9019c20fc0215377de41df7d1f0",
+    "git_hash": "81c55a6578b4b681c87a8e9c24223430176863cf"
+  },
+  {
+    "version": "1.2.1",
+    "container_hash": "0f61a47055282ec4dc9f3236318816419a7c359b4a767ab47be5d551aebe2012",
+    "git_hash": "81c55a6578b4b681c87a8e9c24223430176863cf"
+  },
+  {
+    "version": "1.2.1",
+    "container_hash": "1b9f8c245e33160755dee508b585b96c510c6cd439a791834a539e5c8c2b6a5a",
+    "git_hash": "81c55a6578b4b681c87a8e9c24223430176863cf"
+  },
+  {
+    "version": "1.2.1",
+    "container_hash": "665d26968acd5a38ef1e28789ba1fbc5860b1083f0899ce08f8982c655ea4e81",
+    "git_hash": "7f919a58064e67067ab1c674a35b93afe5b04b70"
+  },
+  {
+    "version": "1.2.1",
+    "container_hash": "7fa2d3b66bb128d8a75dbdb0f93d3515088e831cc2c1e3eb4154ca4cec5459e6",
+    "git_hash": "81c55a6578b4b681c87a8e9c24223430176863cf"
+  },
+  {
+    "version": "1.2.1",
+    "container_hash": "a28110b4f357eb910d60f928bc6333fbe7835411e546432bd916150b71806ff5",
+    "git_hash": "7f919a58064e67067ab1c674a35b93afe5b04b70"
+  },
+  {
+    "version": "1.2.2",
+    "container_hash": "319cc209bff0a063e11a84a93f20b48b6e1abf069255bf80598ed5b0f484290b",
+    "git_hash": "8df0bc7c20392c49acbe6dfb5fd18bd1c5684da9"
+  },
+  {
+    "version": "1.2.2",
+    "container_hash": "45270262865c1fec8d6ead3b4a53eed0f4474ac64eb14e5485f6ce8d80905c4f",
+    "git_hash": "8df0bc7c20392c49acbe6dfb5fd18bd1c5684da9"
+  },
+  {
+    "version": "1.2.2",
+    "container_hash": "abf35b3f1cc2c49bec9010cd8460f17a374899687045b82bb1e9480d51fe2165",
+    "git_hash": "8df0bc7c20392c49acbe6dfb5fd18bd1c5684da9"
+  },
+  {
+    "version": "1.2.2",
+    "container_hash": "cafb1f4d5660bf830b245defda75e39165aa8a60e5c6238ae0a1da411b338198",
+    "git_hash": "14991f328780a3ead94cd0342d284edd15d5ce51"
+  },
+  {
+    "version": "1.2.2",
+    "container_hash": "eaecc48cc801911a483315ea53e06fa3366cd8ee86327b4d4a4029d0c5cc458e",
+    "git_hash": "14991f328780a3ead94cd0342d284edd15d5ce51"
+  },
+  {
+    "version": "1.2.3",
+    "container_hash": "39dbf44a7022621346fed6ff4a4a67e6e7518e2e1d64e8bc10dd9347c5575ad8",
+    "git_hash": "d2500a0c3a43e86b3c40019da6374767073fb933"
+  },
+  {
+    "version": "1.2.3",
+    "container_hash": "5061083e5a38858fc547582ff0b7d8339c0f6010e149106c37af142668321bac",
+    "git_hash": "1e084d1657aef6986e40d00631a1f1df8c1c50fa"
+  },
+  {
+    "version": "1.2.3",
+    "container_hash": "637745e7813cd6c9ebb24751aa7f565b9cfe7f750685ead1fa09fed4862065bc",
+    "git_hash": "d2500a0c3a43e86b3c40019da6374767073fb933"
+  },
+  {
+    "version": "1.2.3",
+    "container_hash": "6e8ae1f9e684613818d0529f3269bd279d0586b4aeb5225b141f68551ed694e5",
+    "git_hash": "d2500a0c3a43e86b3c40019da6374767073fb933"
+  },
+  {
+    "version": "1.2.3",
+    "container_hash": "baf6c73720745e70d5136effb4be7fd4358adafa898b8b1d8312ef1e9e2a7c2b",
+    "git_hash": "1e084d1657aef6986e40d00631a1f1df8c1c50fa"
+  },
+  {
+    "version": "1.2.4",
+    "container_hash": "14d1bc9957673c60a64f5e8a7596947269bde3fb10bc385301443d7b45196857",
+    "git_hash": "bf424c5762d6e0716b94057c25f0b58b01e52b6c"
+  },
+  {
+    "version": "1.2.4",
+    "container_hash": "429e4011535233e25e602883a6e291a87695ba2a3ce21adc8c8171516fd8745b",
+    "git_hash": "bf424c5762d6e0716b94057c25f0b58b01e52b6c"
+  },
+  {
+    "version": "1.2.4",
+    "container_hash": "711de92544e1bc5323851a03eb6f379c09a3eccc1f24ad5445fa9d0cff6efc3c",
+    "git_hash": "948a0f6f0d5f9381d7e2a865f8191250c3f33d0f"
+  },
+  {
+    "version": "1.2.4",
+    "container_hash": "b2e36d6938a8202f7d5156fe8883cd579f728f74a7618d3e4f619eb44280ffe4",
+    "git_hash": "bf424c5762d6e0716b94057c25f0b58b01e52b6c"
+  },
+  {
+    "version": "1.2.4",
+    "container_hash": "c4eeaa9a7d8ca7c0fa4f6bac1a0b3be907cdbe1be1258ff3020802fdce39acb3",
+    "git_hash": "bf424c5762d6e0716b94057c25f0b58b01e52b6c"
+  },
+  {
+    "version": "1.2.4",
+    "container_hash": "d763e9fd4c18548cb10ad714664b1490991a64077e4d51b52c672905e4f27b9d",
+    "git_hash": "bf424c5762d6e0716b94057c25f0b58b01e52b6c"
+  },
+  {
+    "version": "1.2.4",
+    "container_hash": "e6063944d40c98c165fa033a948d0a451b120ec84feb888182cbd2e49040cb3c",
+    "git_hash": "948a0f6f0d5f9381d7e2a865f8191250c3f33d0f"
+  },
+  {
+    "version": "1.2.5-SNAPSHOT",
+    "container_hash": "6ca3b44a7394ce76500111520418f5771c86d5fe4abed64eaa94b217a6c5eb6e",
+    "git_hash": "740e810ba219808a361ff5aa5ee09450f3a667d9"
+  },
+  {
+    "version": "1.2.5-SNAPSHOT",
+    "container_hash": "77d2c4ccaed492485d56a4b190164a46022be630d29def7c746e009d8487e78c",
+    "git_hash": "87609144869ba982cf980b5a2e82d813ca14ed32"
+  },
+  {
+    "version": "1.2.5-pre.8",
+    "container_hash": "ff85c8bbd6ea8c7696942f9dc989bda8ff2d60ba844e6e6e93efdb922fbb03d3",
+    "git_hash": "66f0ed0bf38d4ce7e865bd53e7ae949ff5d12448"
+  },
+  {
+    "version": "1.2.5-pre.9",
+    "container_hash": "bc00643d8841cc5efb02e620b282452bf682281bb4c757b1e69e4f257fa0839f",
+    "git_hash": "08c4718e145c65307bffa59fbd05ec3ff2f0ec12"
+  },
+  {
+    "version": "1.2.5-rc.10",
+    "container_hash": "606b38acb7a1272502cd35fe64779044d6dc4a2522b78336daf79057cd89a091",
+    "git_hash": "1616df42f7e7a364cf380a3888398d6eee9740ff"
+  },
+  {
+    "version": "1.2.5-rc.11",
+    "container_hash": "aa0d54b2185aab4e708eee709802e7d592e2777647b24fdc8775381706127340",
+    "git_hash": "f9b3d29b0175c97881c5307457c307d0d18c84f7"
+  },
+  {
+    "version": "1.2.5-rc.12",
+    "container_hash": "0f4e3ec826029f3dabda3ffa62be4719782e68d621d632d07c7140d5ff88c917",
+    "git_hash": "258318ac75e8f17423d167c0ef0c64cfc912d500"
+  },
+  {
+    "version": "1.2.5-rc.13",
+    "container_hash": "f95ba11e9b762c771a2949e2a05fed18e013b74626a400a23378060b7879639e",
+    "git_hash": "8592016d70aa1fa2b109c8748e9cb24a33eb68b6"
+  },
+  {
+    "version": "1.2.5-rc.14",
+    "container_hash": "bb510e0337c71743cee4b300ac418f484c44e2486d34ce3a76845d309c9bb7a2",
+    "git_hash": "bcccace9280261cb31a75b773e586ecba22d159e"
+  },
+  {
+    "version": "1.2.5-rc.15",
+    "container_hash": "55bfed8807ed6ba2b2cec2eb7ceda7a581c9bb7ad6b3ebd5c1cb841b20ace589",
+    "git_hash": "699c692bf2e07ea6ddb9905cffd6d8c4b8f3ee52"
+  },
+  {
+    "version": "1.2.5-rc.9",
+    "container_hash": "c0b9b63d65a4c67f9986210bf7fef4145478108af24140413ab03fbff1c4fe10",
+    "git_hash": "2b2f509b03f138d9f195e4f559caeed33d792202"
   },
   {
     "date": "2022-04-08",
     "version": "1.2.5-rc.16",
     "container_hash": "adc865fd6d3dd70bfcf396b504ab1cacda0f6763a23a72461e07f41110ff4d82",
     "git_hash": "eef1195906b4d03506455dedfc3b9d8724178f86"
+  },
+  {
+    "date": "2022-04-08",
+    "version": "pr-186-Add-rebuild-workflow-and-update",
+    "container_hash": "5bf918d347466858af2105eceb49d0e047f8675ec24a4aa1dc283a183009171a",
+    "git_hash": "7713a3ab2e40c598bd78a04ddc5b4d3e4f0e6824"
   }
 ]
