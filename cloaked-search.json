@@ -4,5 +4,11 @@
     "version": "pr-500-Rebuild-workflow",
     "container_hash": "acb6af58b3b101f808b57deb36218d3165876a1910db3c175f77b18e20b0770c",
     "git_hash": "b2afbe5fa0c4d2a281facafc85688ce5bd692559"
+  },
+  {
+    "date": "2022-04-14",
+    "version": "1.0.1-rc.59",
+    "container_hash": "5b21d21ee08586c0b560018c26cbc7cf36033b8978b32b2abf91be77bbebb7f4",
+    "git_hash": "6ec3dea832b362fc30059d2dce0bf7df49d8a0a3"
   }
 ]
