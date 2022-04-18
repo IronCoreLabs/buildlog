@@ -301,5 +301,11 @@
     "version": "0.2.1-rc.27",
     "container_hash": "a25adf5324b10264cdccb7376ea688871d88f506e256c79483f250bd3cf8a765",
     "git_hash": "34792b380c00b5db73604433a2300562cbce250f"
+  },
+  {
+    "date": "2022-04-18",
+    "version": "0.2.1-rc.28",
+    "container_hash": "e40feb322fb88e7ff0110301c1900999de0b13eef2eba87c7d0e172fe2b9f735",
+    "git_hash": "15e47fd1c86f875d9dfed7c0cf80c865e770bc84"
   }
 ]
