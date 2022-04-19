@@ -1214,5 +1214,11 @@
     "version": "pr-401-Add-rebuild-workflow-and-update",
     "container_hash": "e0d7af89e6a38f4f62dbe4418a6627e2c8efde2249b289d82268291359a04c41",
     "git_hash": "b502a12eb19f5657179b0f2cbcd902c2801f3cec"
+  },
+  {
+    "date": "2022-04-19",
+    "version": "3.2.0",
+    "container_hash": "41c85792c5720fc8c7dd7529dcb2ff9973fad69d37081a2a7a60ef6aa76147a7",
+    "git_hash": "975b4d8ace4d51419552a28de1dbbd762949f605"
   }
 ]
