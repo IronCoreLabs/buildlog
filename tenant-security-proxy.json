@@ -1791,5 +1791,11 @@
     "version": "4.2.1-rc.12",
     "container_hash": "e3d730fb24f5093cd2f7d3c78cd2e9d27eefbb78d5ae77ede88966f2ba8abf6e",
     "git_hash": "c5c16cee1aa82f9a838d9d6b90cf6f385351feaa"
+  },
+  {
+    "date": "2022-04-28",
+    "version": "4.2.1-rc.13",
+    "container_hash": "a58d09d608c95e3925d6c145beaed0f79807b5cf32c9890be9229ed0c67262b0",
+    "git_hash": "6a3c11d73a2b610a6f3dc95ab2d8297c9ffe8a28"
   }
 ]
