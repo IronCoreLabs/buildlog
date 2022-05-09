@@ -888,5 +888,11 @@
     "version": "1.1.0",
     "container_hash": "de59441da2a80281b7d00f92b2dc33c83d4d3f2259323502a2a278d36788fb09",
     "git_hash": "c6d79fd869a072d804e21edaf479bf71e41f5834"
+  },
+  {
+    "date": "2022-05-09",
+    "version": "1.1.1-rc",
+    "container_hash": "d681502012b88e14a500363e5b574c5e1de097b241c899c795986247bbe2f05e",
+    "git_hash": "29e181b3d053d4a10a01a6ac8234a6f39a1d72c4"
   }
 ]
