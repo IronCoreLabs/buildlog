@@ -1971,5 +1971,11 @@
     "version": "4.3.6-rc",
     "container_hash": "0330ddbf9213d785486aaab5736f608409e261018fef265ec8d6f815f0ddcbc5",
     "git_hash": "909224e205cc5c98b6d223152b4b82a054642651"
+  },
+  {
+    "date": "2022-05-24",
+    "version": "4.2.0",
+    "container_hash": "aeedd179ef097574400d935f4c2be89b3ab49e580efd600a3b9aff6ef7d67b05",
+    "git_hash": "1495ee1d2b82bc733974d61e3ccf29522fca6f33"
   }
 ]
