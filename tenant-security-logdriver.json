@@ -1466,5 +1466,11 @@
     "version": "3.1.1",
     "container_hash": "e0e29f881d79e44b15e5f6c106ddc2329683c3398c4b123613ce82dcdfa76068",
     "git_hash": "55ff60b6c9bf25cd063833e9dd244cf5fd3532da"
+  },
+  {
+    "date": "2022-05-24",
+    "version": "3.2.0",
+    "container_hash": "dc2fa4259e400696f4c8f736a4b3c9590811ce57baa606e32521da2abde71ace",
+    "git_hash": "975b4d8ace4d51419552a28de1dbbd762949f605"
   }
 ]
