@@ -1965,5 +1965,11 @@
     "version": "4.3.5-rc",
     "container_hash": "308593cf3a1b8a7ee7021105d9a18d35b8f221dc30ff6d50c37dcca8712a9c6a",
     "git_hash": "c2648f39a733773a8411db9a99668c0d1526b39d"
+  },
+  {
+    "date": "2022-05-24",
+    "version": "4.3.6-rc",
+    "container_hash": "0330ddbf9213d785486aaab5736f608409e261018fef265ec8d6f815f0ddcbc5",
+    "git_hash": "909224e205cc5c98b6d223152b4b82a054642651"
   }
 ]
