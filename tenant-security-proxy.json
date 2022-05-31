@@ -2007,5 +2007,11 @@
     "version": "4.3.0",
     "container_hash": "291eaa4df489ff5531e5bdc343f60c82c61957616f6fee50aa8a74cd16e46ba4",
     "git_hash": "caaeee1dffd4985ebde042122d4ac3c4c0053f83"
+  },
+  {
+    "date": "2022-05-31",
+    "version": "4.0.1",
+    "container_hash": "db4a0ac1450da85b0b5a0ebd117283529884988551ed0c7205f17c1e29566173",
+    "git_hash": "b1a63588fabe04f5ede0cdbbf6602b6d3d3030f3"
   }
 ]
