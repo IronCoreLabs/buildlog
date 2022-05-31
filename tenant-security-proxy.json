@@ -2019,5 +2019,11 @@
     "version": "4.1.2",
     "container_hash": "4df14c6ea8195e8eaf46e8c60c8442d203002676d191afca9c02df8b873a4cf8",
     "git_hash": "a0ad2b9f164b7ec1dec484e63cb7baa3ae7fe256"
+  },
+  {
+    "date": "2022-05-31",
+    "version": "4.0.0",
+    "container_hash": "062f652406b607df4b14beffdf3dc5d595777ca39929240d6b9fb5e10a43de96",
+    "git_hash": "0cd2edd819244e94a349baaa5e5f2016117b69e5"
   }
 ]
