@@ -888,5 +888,11 @@
     "version": "1.2.5-arm64",
     "container_hash": "26b3eb13987e5737c48ba390585a88464d96f9d35a43efa5a53d0ca9c9c4aab2",
     "git_hash": "2bea2b5e5a4f6d2d8f41790eb25889455dc48f3e"
+  },
+  {
+    "date": "2022-06-14",
+    "version": "jre-not-jdk-arm64",
+    "container_hash": "d762bf85120d3f9bf3c8fca4229c97ec36b636ee083f3168d7a544d04049d6d2",
+    "git_hash": "3005b024aebe4b1e61404e2b309358feb142c262"
   }
 ]
