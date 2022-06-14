@@ -894,5 +894,11 @@
     "version": "jre-not-jdk-arm64",
     "container_hash": "d762bf85120d3f9bf3c8fca4229c97ec36b636ee083f3168d7a544d04049d6d2",
     "git_hash": "3005b024aebe4b1e61404e2b309358feb142c262"
+  },
+  {
+    "date": "2022-06-14",
+    "version": "jre-not-jdk-amd64",
+    "container_hash": "071a7055b064564cd4e051423ddbf59cd889d764a5958cd87feb92cae1faafb7",
+    "git_hash": "3005b024aebe4b1e61404e2b309358feb142c262"
   }
 ]
