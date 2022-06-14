@@ -900,5 +900,11 @@
     "version": "jre-not-jdk-amd64",
     "container_hash": "071a7055b064564cd4e051423ddbf59cd889d764a5958cd87feb92cae1faafb7",
     "git_hash": "3005b024aebe4b1e61404e2b309358feb142c262"
+  },
+  {
+    "date": "2022-06-14",
+    "version": "1.2.6-rc.2-amd64",
+    "container_hash": "586d2e455d3fceebe5210047a6530e1a963fdb12651a0e182c9ea7461f640ef4",
+    "git_hash": "96eabf98ee86deb66b4dcfdfec9a2e1a6344bb90"
   }
 ]
