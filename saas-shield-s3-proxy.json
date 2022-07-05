@@ -1080,5 +1080,11 @@
     "version": "1.2.7-rc.1-arm64",
     "container_hash": "b09c605b14479c822bdcefc536870eadaee26d1b8fc03e60013fe61511a70e69",
     "git_hash": "f0dc67b94240e696ae27d2a6bd7f8b5578aa84cd"
+  },
+  {
+    "date": "2022-07-05",
+    "version": "1.2.6-arm64",
+    "container_hash": "e5afd125372ce0be5f0b6cdaca2eb1ba5d13079bad6312d94c951e1eb85bc1d9",
+    "git_hash": "9b8ff9d2230bfc369431b45ed7b714cc61b3c94c"
   }
 ]
