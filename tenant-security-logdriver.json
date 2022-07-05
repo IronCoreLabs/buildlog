@@ -1910,5 +1910,11 @@
     "version": "3.1.0",
     "container_hash": "c42e6f44628a1b87763dca5cae4216685c4c25d40f4a727815e0cf3c0c805364",
     "git_hash": "53b48c9dab58062e20f14a0b02c997209e724f70"
+  },
+  {
+    "date": "2022-07-05",
+    "version": "3.0.0",
+    "container_hash": "5009c77b498bb53516169144c29d5b2dbad230f50260f8d602333bef63bcb3ed",
+    "git_hash": "4c42b4b2d1c7259c098f86715a2190e530d8003e"
   }
 ]
