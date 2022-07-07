@@ -1970,5 +1970,11 @@
     "version": "3.3.0",
     "container_hash": "1dff1c8d62f7bb520afd9d09ffd2099507240291ae1263ad6c177830ead87027",
     "git_hash": "f857f32f9b51faa9bf98ad73fc9289be48571eb9"
+  },
+  {
+    "date": "2022-07-07",
+    "version": "4.1.2-rc.16-arm64",
+    "container_hash": "f8dc228f6bc2d335d7fe139e06ce17b67d607307173876553f6731a0fb1117f9",
+    "git_hash": "e1f31df044bce6cac1e6dddbd0db788edb0cc4c4"
   }
 ]
