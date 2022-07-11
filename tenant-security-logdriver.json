@@ -1982,5 +1982,11 @@
     "version": "4.1.2-rc.16-amd64",
     "container_hash": "feeca71ba8973e93a321d90e48e30daceaa1045169b82256ae1d60fdc8356d64",
     "git_hash": "e1f31df044bce6cac1e6dddbd0db788edb0cc4c4"
+  },
+  {
+    "date": "2022-07-11",
+    "version": "4.1.2-rc.17-amd64",
+    "container_hash": "3f19fb70b1372bc007d498d9fbfd830724d35f4996a9dc5127f46fde61cf994e",
+    "git_hash": "4683e2fc37ace37d74b4015087f64616423dad2b"
   }
 ]
