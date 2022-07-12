@@ -2667,5 +2667,11 @@
     "version": "4.4.2-amd64",
     "container_hash": "e71fe3fa30fb67828d73c91b6ddcc79a6a1b950bfc8179cb913cfd135fd2a88f",
     "git_hash": "c5da99a20be1bacaa605e952c1963ebf17d44000"
+  },
+  {
+    "date": "2022-07-12",
+    "version": "4.4.0",
+    "container_hash": "e1d550e1b1cc75fb4bbb0a675daa2bccf6fd413c3eb5c8a2bddf269761d9521a",
+    "git_hash": "61a04d6e7cbd6a4656459c2a4da9cea3c6948449"
   }
 ]
