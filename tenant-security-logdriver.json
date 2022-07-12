@@ -1994,5 +1994,11 @@
     "version": "4.1.2-rc.17-arm64",
     "container_hash": "c1ca1f6db45055579dabe8182575d779739b94b624bdfa16f5d0572244a566e6",
     "git_hash": "4683e2fc37ace37d74b4015087f64616423dad2b"
+  },
+  {
+    "date": "2022-07-12",
+    "version": "3.0.0",
+    "container_hash": "538ab6b218d543466290abdff5550ca34de4117a3b32aa9c53d33af9b3edddd2",
+    "git_hash": "4c42b4b2d1c7259c098f86715a2190e530d8003e"
   }
 ]
