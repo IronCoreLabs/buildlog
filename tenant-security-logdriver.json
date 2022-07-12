@@ -2006,5 +2006,11 @@
     "version": "3.1.0",
     "container_hash": "334c4368af5953b6210070f3779a76f905fcdaa110f9f0da385bcc63c0930b67",
     "git_hash": "53b48c9dab58062e20f14a0b02c997209e724f70"
+  },
+  {
+    "date": "2022-07-12",
+    "version": "3.3.1",
+    "container_hash": "6e5bf2ed1801351c8cb9f6581789e4b742d68d10325873ad9d675e234334b0e7",
+    "git_hash": "4fefd51b9c388e0d7472f133c257df4cd1eeaeba"
   }
 ]
