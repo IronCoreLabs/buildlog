@@ -2024,5 +2024,11 @@
     "version": "3.1.1",
     "container_hash": "3276e738214244e46fe29f6a53b153bc37f327992fe9828119cf58a68840f8ef",
     "git_hash": "55ff60b6c9bf25cd063833e9dd244cf5fd3532da"
+  },
+  {
+    "date": "2022-07-12",
+    "version": "3.3.0",
+    "container_hash": "86e9de5cd5a5c409c762edce07b933149b8e87c974482b50cdb717c7bb2caa40",
+    "git_hash": "f857f32f9b51faa9bf98ad73fc9289be48571eb9"
   }
 ]
