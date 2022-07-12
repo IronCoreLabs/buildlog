@@ -2012,5 +2012,11 @@
     "version": "3.3.1",
     "container_hash": "6e5bf2ed1801351c8cb9f6581789e4b742d68d10325873ad9d675e234334b0e7",
     "git_hash": "4fefd51b9c388e0d7472f133c257df4cd1eeaeba"
+  },
+  {
+    "date": "2022-07-12",
+    "version": "3.2.0",
+    "container_hash": "8cc6449f4fd66e2911f7221faf26b0ab087a7382c41c0000f8b797c8be542d9f",
+    "git_hash": "975b4d8ace4d51419552a28de1dbbd762949f605"
   }
 ]
