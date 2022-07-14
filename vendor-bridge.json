@@ -811,5 +811,11 @@
     "version": "1.0.2-rc.20-amd64",
     "container_hash": "eabbd5e17b803f81fb9ca4252e1e8c8fbc0bf999b13a294a9d553d2266b104c7",
     "git_hash": "8dd88d8ce388b4123ac82e7d30bb2bba634ddf53"
+  },
+  {
+    "date": "2022-07-14",
+    "version": "1.0.2-rc.21-amd64",
+    "container_hash": "6bb04dc8327e4f8b9e7192bbc9a68080f88999c3780ab5ed8f12e0ac33e7e397",
+    "git_hash": "8c2a1c3b20be3ef0225c983ae6e1c302b58934bc"
   }
 ]
