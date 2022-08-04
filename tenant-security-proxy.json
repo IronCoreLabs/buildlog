@@ -3111,5 +3111,11 @@
     "version": "4.4.3-rc.26-arm64",
     "container_hash": "a0bf3844160db34770f59fc4f9bf53076df48c1d9c67f234ea61aa6f892c31a7",
     "git_hash": "3498216d9b05ba078089f4d100f82b68378bc145"
+  },
+  {
+    "date": "2022-08-04",
+    "version": "4.4.3-rc.26-amd64",
+    "container_hash": "d1e5e698411920743e30ae00baf60a56a314920c04e5228cb94bc642337975f3",
+    "git_hash": "3498216d9b05ba078089f4d100f82b68378bc145"
   }
 ]
