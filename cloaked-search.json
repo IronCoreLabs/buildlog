@@ -1920,5 +1920,11 @@
     "version": "1.1.2-amd64",
     "container_hash": "3b74b2fc51e0ec558ab494ea1f5f86e7551ad9feb2e77cecfcf78d27e52a74d2",
     "git_hash": "23c20c91d2579b179cb80a4c1824fad78f638a44"
+  },
+  {
+    "date": "2022-08-25",
+    "version": "1.1.4-rc.24-arm64",
+    "container_hash": "7346c3b00fd8e97359085459de8e36586dc5864066a35a346be7c6a93814a593",
+    "git_hash": "0dcb7189df6067beb32ccd9ef404102eb3ac16b5"
   }
 ]
