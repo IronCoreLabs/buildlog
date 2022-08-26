@@ -1950,5 +1950,11 @@
     "version": "1.1.4-rc.26-arm64",
     "container_hash": "521bd5cf217463deecdc794ec618c1012bfb9f11ee7fe011554bed51a94eb978",
     "git_hash": "07cb945bc2a9fddc834b463a76f2aedbec720cd0"
+  },
+  {
+    "date": "2022-08-26",
+    "version": "1.1.4-rc.26-amd64",
+    "container_hash": "a767eb41306eba245cd2df7f00e93bfeafbdbe2b7162a56ced2eb58a218dcec5",
+    "git_hash": "07cb945bc2a9fddc834b463a76f2aedbec720cd0"
   }
 ]
