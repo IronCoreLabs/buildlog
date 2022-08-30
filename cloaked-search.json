@@ -1992,5 +1992,11 @@
     "version": "1.1.2-arm64",
     "container_hash": "bf93202006ab662da4df317e9d69380425c46459ad0417aa5bfcf1699a952536",
     "git_hash": "23c20c91d2579b179cb80a4c1824fad78f638a44"
+  },
+  {
+    "date": "2022-08-30",
+    "version": "1.1.3-amd64",
+    "container_hash": "7a9d4b55fa2e4cc3bccc609ee46a27b2603a7aff57cae2daf6246031501c85e2",
+    "git_hash": "b39f7704f51a0a38c4cd1dc3aea886291dc1e054"
   }
 ]
