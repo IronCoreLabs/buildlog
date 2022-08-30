@@ -2004,5 +2004,11 @@
     "version": "1.1.4-rc.27-arm64",
     "container_hash": "e0fa224610bda207e3ee04a44d74eb88ac63867d2a6e57c2ff901691e47b84de",
     "git_hash": "9704d9159bf96fea868ea632afda2973c7e5283d"
+  },
+  {
+    "date": "2022-08-30",
+    "version": "1.1.4-rc.27-amd64",
+    "container_hash": "ef1b6c9012fc7829793e73f9afa3afec9d2682e4a6f3495ea9400c92ed1fba90",
+    "git_hash": "9704d9159bf96fea868ea632afda2973c7e5283d"
   }
 ]
