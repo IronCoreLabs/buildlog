@@ -1980,5 +1980,11 @@
     "version": "1.1.2-amd64",
     "container_hash": "6451abba5c9a3efadf6de5b4fe2dfe29e107e56b2ad24fb7fe99e79565abda45",
     "git_hash": "23c20c91d2579b179cb80a4c1824fad78f638a44"
+  },
+  {
+    "date": "2022-08-30",
+    "version": "1.1.0",
+    "container_hash": "cfb2d49ed7bf8bb43876936d88f56d24e1e669e9e0b3e1fdab794145f0de1c74",
+    "git_hash": "c6d79fd869a072d804e21edaf479bf71e41f5834"
   }
 ]
