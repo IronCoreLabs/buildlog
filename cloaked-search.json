@@ -2016,5 +2016,11 @@
     "version": "1.1.4-rc.28-amd64",
     "container_hash": "36580ed479fcc3dbdb760d3abd2170c434b5c6f4a8e59226cd231818df91c00f",
     "git_hash": "44661285c252221f23008fc4a95cc5ae49afd2c8"
+  },
+  {
+    "date": "2022-09-02",
+    "version": "1.1.4-rc.28-arm64",
+    "container_hash": "5969ab8ebafeec7ce556bd742e466c5ff88ee9fb682b4a588a36a868cab80e5b",
+    "git_hash": "44661285c252221f23008fc4a95cc5ae49afd2c8"
   }
 ]
