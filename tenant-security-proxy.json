@@ -3651,5 +3651,11 @@
     "version": "4.0.0",
     "container_hash": "5f12f7c48f5caece5efb1fe560e9da33febd8a88e3ae0ce9eecc696bd7fe9967",
     "git_hash": "e7dc10e5cc2d3824bfd4a7e03c7a1804050b8d1a"
+  },
+  {
+    "date": "2022-09-06",
+    "version": "4.1.2",
+    "container_hash": "1ddd0d6be9dee049660f8ac023dfb4d10aeabbbc519b22ed3b89b910a11c0c22",
+    "git_hash": "47d4b501aa758bd7c92adf7e4b2cf4355839b4d8"
   }
 ]
