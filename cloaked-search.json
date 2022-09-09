@@ -2100,5 +2100,11 @@
     "version": "1.1.4-rc.31-arm64",
     "container_hash": "4be1cee6db4196ce8ec32f9aeb75c92db0812cec2664afded9b6220a0c684065",
     "git_hash": "eefcfceda9b462800dffdf92899a6dbe8f889b83"
+  },
+  {
+    "date": "2022-09-08",
+    "version": "1.1.4-rc.32-arm64",
+    "container_hash": "6fefcb082f6ffca93bcb7bd6125e072304bbca0bdc556adafee365baa97bcc3b",
+    "git_hash": "0e3eb4a3ce70f35e88a3001e0c8e9b02c8250529"
   }
 ]
