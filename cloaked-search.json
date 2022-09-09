@@ -2130,5 +2130,11 @@
     "version": "2.0.0-beta.7-arm64",
     "container_hash": "b068d966532b9c759d28e47a90f855b7401ba8b2c315a05bd6a7dc8b77ae0ccd",
     "git_hash": "497ba5e53b7c35919428ad468e0c2019f0526f57"
+  },
+  {
+    "date": "2022-09-09",
+    "version": "2.0.0-beta.7-amd64",
+    "container_hash": "25d77b05c295fc4736a2613d6ec428f0cab9cde74bbcddd35a683c383bcc8c4c",
+    "git_hash": "497ba5e53b7c35919428ad468e0c2019f0526f57"
   }
 ]
