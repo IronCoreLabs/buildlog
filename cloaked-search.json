@@ -2136,5 +2136,11 @@
     "version": "2.0.0-beta.7-amd64",
     "container_hash": "25d77b05c295fc4736a2613d6ec428f0cab9cde74bbcddd35a683c383bcc8c4c",
     "git_hash": "497ba5e53b7c35919428ad468e0c2019f0526f57"
+  },
+  {
+    "date": "2022-09-12",
+    "version": "1.1.4-rc.34-amd64",
+    "container_hash": "a32f196a6cc01c344cbe59b2524e0a7cb61bbb2050552c051acff6f7846ad224",
+    "git_hash": "cd0fbab5856b0ab2951980aa58fa02ba89c92db0"
   }
 ]
