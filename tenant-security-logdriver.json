@@ -2792,5 +2792,11 @@
     "version": "4.1.2-rc.49-amd64",
     "container_hash": "23d0856fdf53cc8a874993ea115d359e8ec256b0d434bb334e62500a07c7ef35",
     "git_hash": "69a89af271531bca778f50e45c7631baef73ec91"
+  },
+  {
+    "date": "2022-09-27",
+    "version": "3.1.0",
+    "container_hash": "749544cc4e70bd56c502ff572217d98375852b15f017cc5d65ac806ae3b09b38",
+    "git_hash": "7ff82cc47a8a7c1e626a0278709573701852b6fd"
   }
 ]
