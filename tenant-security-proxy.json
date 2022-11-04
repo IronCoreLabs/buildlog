@@ -4563,5 +4563,11 @@
     "version": "4.6.2-rc.4-amd64",
     "container_hash": "48ddc0ce4a429f411756cff8685c4f16573fb14f1cbed6b6a68f80ece3b25776",
     "git_hash": "69f456b57144572db6b532cb175d4ed4b7800e33"
+  },
+  {
+    "date": "2022-11-04",
+    "version": "4.6.2-rc.5-arm64",
+    "container_hash": "ecc7ca85ea3a72fcc8e1e600a3e4dc0d68bc31ac3ec8ff637e8f823907adb4ba",
+    "git_hash": "a9a2e552263a1d04278994a56c39245e756d1f95"
   }
 ]
