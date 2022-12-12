@@ -755,6 +755,7 @@
     "git_hash": "101755150e2e0c5d950858cb540cb1164c384a68"
   },
   {
+    "date": "2021-10-01",
     "version": "4.0.0",
     "container_hash": "35c558b32f6005e3a1797a991c87afa19115d69490bc56c4a9cb92fd048f9e86",
     "git_hash": "7be22533c23b7902d0fbbfad1dc0f935ae7cc6a3"
@@ -1200,6 +1201,7 @@
     "git_hash": "0e694e82bcd31d1acbe1aca15bbb3445066d7c61"
   },
   {
+    "date": "2022-04-08",
     "version": "4.1.0",
     "container_hash": "9075c9581ca25ec0022c29cec352631da15b0b2754cd4ac6cf42cf36045eb81b",
     "git_hash": "c8484277a76f96d69dc089a427d90fb56dd4164b"
