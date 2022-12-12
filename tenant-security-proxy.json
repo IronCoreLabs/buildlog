@@ -1550,6 +1550,7 @@
     "git_hash": "6310dbcca59a29441f754e5d3e2a26c2c90b51a5"
   },
   {
+    "date": "2022-03-18",
     "version": "4.1.1",
     "container_hash": "a77abe2eae4ab112dc118591bebd15f2f886d071e6f9440bc7f3536145a79c10",
     "git_hash": "4e07a7cb5ac6b670cc09953d937011a91bcc34be"
@@ -1605,6 +1606,10 @@
     "git_hash": "ef2322ea6b9b8d4922e86993956179fcac93ee6e"
   },
   {
+    "date": "2022-03-22",
+    "version": "4.1.2"
+  },
+  {
     "version": "4.1.2",
     "container_hash": "36bffc94c11010d29171e7dab37c16c2652ed82961bead7141ee12cf5e4b913c",
     "git_hash": "6fe3bc81505d19516ee3177e228afe767b7abf91"
@@ -1655,6 +1660,7 @@
     "git_hash": "019ea414214b6e1d6833dda7a636342a55f7d8f8"
   },
   {
+    "date": "2022-04-04",
     "version": "4.2.0",
     "container_hash": "569f68c390e4db811c895d30da9d746f15d3853fb96b0becb452181b0d6be095",
     "git_hash": "d19a41b728e01ed1c061aa1d3ca467a99c3c9e09"
@@ -1703,6 +1709,10 @@
     "git_hash": "478a4b0751f5d51f28224400e533b98cb410358d"
   },
   {
+    "date": "2021-10-21",
+    "version": "4.0.0"
+  },
+  {
     "date": "2022-04-19",
     "version": "4.0.0",
     "container_hash": "3d4ad81a2f8e2ee0237b9a58560bafe08c552aea11ffc4e8c6da371d099dcb3f",
@@ -1721,10 +1731,18 @@
     "git_hash": "1495ee1d2b82bc733974d61e3ccf29522fca6f33"
   },
   {
+    "date": "2022-03-23",
+    "version": "4.0.1"
+  },
+  {
     "date": "2022-04-19",
     "version": "4.0.1",
     "container_hash": "a37b9738c1591fea093aa2f2ed76a45b5a51e64916137ec00656845c0741a1ab",
     "git_hash": "b1a63588fabe04f5ede0cdbbf6602b6d3d3030f3"
+  },
+  {
+    "date": "2022-03-01",
+    "version": "4.1.0"
   },
   {
     "date": "2022-04-19",
