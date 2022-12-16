@@ -1693,5 +1693,11 @@
     "version": "1.0.2-rc.64-amd64",
     "container_hash": "bf2106a58fdbec2245951bdf10f770ed57bc426f3bb6aa018aff8e91b0ea9d4a",
     "git_hash": "c8568ccf4c548caba87b73b96849322fa92b8a5f"
+  },
+  {
+    "date": "2022-12-16",
+    "version": "1.0.2-rc.64-arm64",
+    "container_hash": "d3fea38dff45eea14b7fbbc2ae1ac11104741461e5191fe0694509076f86005a",
+    "git_hash": "c8568ccf4c548caba87b73b96849322fa92b8a5f"
   }
 ]
