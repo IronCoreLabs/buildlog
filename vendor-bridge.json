@@ -1723,5 +1723,11 @@
     "version": "1.0.0",
     "container_hash": "2ec80671b75dcae9c1edf3a7ccfb23859ca02c54834edbee465252f3b9e38b9b",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
+  },
+  {
+    "date": "2023-01-10",
+    "version": "1.0.1-amd64",
+    "container_hash": "58824eaa942db8182916b70741cedd8ea59d04ac4a2d65f169ea9320b8dea6b8",
+    "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   }
 ]
