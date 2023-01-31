@@ -5787,5 +5787,11 @@
     "version": "4.7.0-arm64",
     "container_hash": "9aec2867a2cf1ce05eba99630efd32b1e1505f67a6c2d0e00bc366f17980e51e",
     "git_hash": "d0d2766e9d3140c3a6f6c4740bce446f01301869"
+  },
+  {
+    "date": "2023-01-31",
+    "version": "4.5.0-arm64",
+    "container_hash": "7e4080f8a81d4f292066f222d9fb602fa0d3d66bb1666fcdb8a2174501d8ee55",
+    "git_hash": "72d876f29fe59707b35645055fab92d89957dc12"
   }
 ]
