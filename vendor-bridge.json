@@ -1861,5 +1861,11 @@
     "version": "1.0.2-rc.77-amd64",
     "container_hash": "01a4dbf2733838731e23dd285928e298b13e586ee9eee5f8ec1674d05499d5a1",
     "git_hash": "8ea9681b79f23657fd0b3dfcb67ae043a37e6b8c"
+  },
+  {
+    "date": "2023-02-07",
+    "version": "1.0.1-arm64",
+    "container_hash": "6b0271d7687ddc7ee11e8eea01bc1b05d6247bc2d26713c85ca89495fb70e5e0",
+    "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   }
 ]
