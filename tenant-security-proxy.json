@@ -6009,5 +6009,11 @@
     "version": "4.7.1-rc.38-amd64",
     "container_hash": "8647b5d078452589578fd230df501bfdd210e8281eb56f8624e77d73950d8767",
     "git_hash": "63221b8540734a5b8d7a845fd07128995b8e3d20"
+  },
+  {
+    "date": "2023-02-10",
+    "version": "4.7.1-rc.38-arm64",
+    "container_hash": "029a992c4d9ce7247dea60a86a66e7c96750cd955ab601e8b11dd55b6dba86ef",
+    "git_hash": "63221b8540734a5b8d7a845fd07128995b8e3d20"
   }
 ]
