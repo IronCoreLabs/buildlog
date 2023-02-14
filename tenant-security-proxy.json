@@ -6111,5 +6111,11 @@
     "version": "4.4.2-arm64",
     "container_hash": "02ae6a6d02bb4482c4b8caf835ad18213e28c7bdee93515e18af126f77998ed1",
     "git_hash": "d0b9ba164af50f663824f83088d89bd367e0f6e7"
+  },
+  {
+    "date": "2023-02-14",
+    "version": "4.5.0-arm64",
+    "container_hash": "0de3ce8ca96aba80c81ebb0d9bee41b8245e094877dc02d16c9346e97f7ead58",
+    "git_hash": "72d876f29fe59707b35645055fab92d89957dc12"
   }
 ]
