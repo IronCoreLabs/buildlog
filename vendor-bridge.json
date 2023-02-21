@@ -1975,5 +1975,11 @@
     "version": "1.0.2-rc.82-amd64",
     "container_hash": "315d8129d499d93777bb36dcd94c46dc013eb3b0472bd21f8137568ef165881b",
     "git_hash": "6200093137fdc3167891b949f20d1cca140d5a99"
+  },
+  {
+    "date": "2023-02-21",
+    "version": "1.0.2-rc.83-arm64",
+    "container_hash": "0362caf5171fb7a8808ea5ca812f5d92ec58087c5a855e2b4b9adb117ea90906",
+    "git_hash": "2abb88f424e4896f6e0baadb14e26cc621500b2e"
   }
 ]
