@@ -1987,5 +1987,11 @@
     "version": "1.0.2-rc.83-amd64",
     "container_hash": "093cc4e6e560d7a1c1a07740bb5d6708fa83188645933f3d777908314f6458ce",
     "git_hash": "2abb88f424e4896f6e0baadb14e26cc621500b2e"
+  },
+  {
+    "date": "2023-02-23",
+    "version": "1.0.2-rc.84-arm64",
+    "container_hash": "c927ea3adda54fcef23631413c5c7d78b2c4fd0245dcc3546559a381e93bba2b",
+    "git_hash": "df50e1ad98adb99016fb8fe61e2d7c7e72cfee10"
   }
 ]
