@@ -1993,5 +1993,11 @@
     "version": "1.0.2-rc.84-arm64",
     "container_hash": "c927ea3adda54fcef23631413c5c7d78b2c4fd0245dcc3546559a381e93bba2b",
     "git_hash": "df50e1ad98adb99016fb8fe61e2d7c7e72cfee10"
+  },
+  {
+    "date": "2023-02-23",
+    "version": "1.0.2-rc.84-amd64",
+    "container_hash": "02846a939a97a69d1e713a1952ebd4b36e995bd1ec1048127691a73893991318",
+    "git_hash": "df50e1ad98adb99016fb8fe61e2d7c7e72cfee10"
   }
 ]
