@@ -490,6 +490,11 @@
     "git_hash": "cb0f74d78230ec8f1db117e2f21ac4cc60f7474c"
   },
   {
+    "date": "2021-11-01",
+    "version": "1.0.0"
+  },
+  {
+    "date": "2021-11-15",
     "version": "1.0.0",
     "container_hash": "269f5f901cd93e2841e60425ca83988dde93eca3b2437089c1abd9e00173a225",
     "git_hash": "1ffe17cd10313ca99cf7f9e81080311970dc6ebf"
