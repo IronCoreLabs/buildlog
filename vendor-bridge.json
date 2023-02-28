@@ -2005,5 +2005,11 @@
     "version": "1.0.1-amd64",
     "container_hash": "381048abeb4e52470475dbaa57ffe591345a0e2cb41c01053822609021ad5cfb",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
+  },
+  {
+    "date": "2023-02-28",
+    "version": "1.0.0",
+    "container_hash": "885295df589430eeff96e1d254719c599b31527743ff91756608e82c2728d38d",
+    "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   }
 ]
