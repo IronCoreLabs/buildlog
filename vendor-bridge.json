@@ -2023,5 +2023,11 @@
     "version": "1.0.2-rc.85-arm64",
     "container_hash": "48d42067195c56870e94157fd0ef2d53e6e0b2c2a5c54ada0227fb20683841aa",
     "git_hash": "11a72e853e84799d350dcee1286bc543387b35a6"
+  },
+  {
+    "date": "2023-03-01",
+    "version": "1.0.2-rc.85-amd64",
+    "container_hash": "f6c93afed33785cd0c848737562b2215ed6915ceb4632535be94b6ffd97fb8af",
+    "git_hash": "11a72e853e84799d350dcee1286bc543387b35a6"
   }
 ]
