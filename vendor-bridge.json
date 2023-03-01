@@ -2017,5 +2017,11 @@
     "version": "1.0.1-arm64",
     "container_hash": "7da79b97c9561051e3c116602e291b7281379b0f3cafcade8ba3e926f820bc68",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
+  },
+  {
+    "date": "2023-03-01",
+    "version": "1.0.2-rc.85-arm64",
+    "container_hash": "48d42067195c56870e94157fd0ef2d53e6e0b2c2a5c54ada0227fb20683841aa",
+    "git_hash": "11a72e853e84799d350dcee1286bc543387b35a6"
   }
 ]
