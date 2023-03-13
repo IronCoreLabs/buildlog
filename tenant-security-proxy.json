@@ -6501,5 +6501,11 @@
     "version": "4.7.1-rc.48-amd64",
     "container_hash": "447898222af70554dc5ca85650b16c4dc47ce8f9255d3e6f8dbd8bc71085e068",
     "git_hash": "1ba0c2339e263f3b995109ec23df9c52bca54564"
+  },
+  {
+    "date": "2023-03-13",
+    "version": "4.7.1-rc.45-arm64",
+    "container_hash": "83c4f24c4a8172337472aa5dc4baae2cc51104cc36bfa742fd02d8984b3e04fb",
+    "git_hash": "16bf3662152b41bba00ab87df954badca5b2c1d2"
   }
 ]
