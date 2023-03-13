@@ -6513,5 +6513,11 @@
     "version": "4.7.1-rc.46-arm64",
     "container_hash": "fa827d00abdbac7367bac0dea52f1f82d10231af7e3c10773d139b61d6c9cf72",
     "git_hash": "dbb4ce59ed25eb5ca9521ecc8b73d4cbcf8c5ee1"
+  },
+  {
+    "date": "2023-03-13",
+    "version": "4.7.1-rc.47-arm64",
+    "container_hash": "f2eaff42dc4faa609e91ee1235bafe4914a2721941c4ed0762bb704c4197da30",
+    "git_hash": "53d1326eea397d63f8f98e33e339d9fe3ef2dc99"
   }
 ]
