@@ -6711,5 +6711,11 @@
     "version": "4.4.2-amd64",
     "container_hash": "f327ef325c7fb59277ea4e0751d47a810162019170f6eb01909a011a71fd6650",
     "git_hash": "d0b9ba164af50f663824f83088d89bd367e0f6e7"
+  },
+  {
+    "date": "2023-03-21",
+    "version": "4.7.0-amd64",
+    "container_hash": "d4890795fe0dd0991fce421c9b7e096ebeed1e23e79f744fe51c61cb434bca40",
+    "git_hash": "d0d2766e9d3140c3a6f6c4740bce446f01301869"
   }
 ]
