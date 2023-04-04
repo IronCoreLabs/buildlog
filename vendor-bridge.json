@@ -2401,5 +2401,11 @@
     "version": "1.0.1-amd64",
     "container_hash": "d81b4d5b4fa3aec657890a685c9648c2b64226b4888d91a514cd595572746d13",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
+  },
+  {
+    "date": "2023-04-04",
+    "version": "1.0.0",
+    "container_hash": "8847ed53fa5438ba175fe9f9a34e47e5f46fbf10f30d460b4030042268eadfc7",
+    "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   }
 ]
