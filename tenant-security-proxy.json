@@ -7029,5 +7029,11 @@
     "version": "4.8.1-rc.6-arm64",
     "container_hash": "2d5306c02c4bae1b425dac500cab0d94a3f2ad2942000fa1189cb4cdb0fa26c9",
     "git_hash": "2f6003b8930a365822f52702ca0de492f7b1a403"
+  },
+  {
+    "date": "2023-04-13",
+    "version": "4.9.0-amd64",
+    "container_hash": "15e26ccb460f8b1973cc83a1be9b80075422c8be98de5de1655c6dafe9dbd6ea",
+    "git_hash": "eaf34a232c4c2f20be97b3f79b98a1730ff7a9f5"
   }
 ]
