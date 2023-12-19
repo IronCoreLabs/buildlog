@@ -1,408 +1,8 @@
 [
   {
-    "version": "0.1.1-pre",
-    "container_hash": "96f2614a4dd7e5ca3b29f690a49ab249b562a931537568d53a0cfe0c78f9365a",
-    "git_hash": "d49994f0d4027e3ed6f269e6242902b004adf04d"
-  },
-  {
-    "version": "0.1.1-pre",
-    "container_hash": "b5953c9a44cdf889ab167240ad56519039942856018e90360d3bda5a755fceae",
-    "git_hash": "bb7a73893a3dfd284331ec47af27542f133cef6e"
-  },
-  {
-    "version": "0.1.1-pre.10",
-    "container_hash": "26be0a3ebae6dcf7f957756673d8826a40e096a51b3491a40224d04b8d87cd10",
-    "git_hash": "41e759f3ad8597ec22cbf3d4f48eb328b1b6b4d8"
-  },
-  {
-    "version": "0.1.1-pre.11",
-    "container_hash": "a4d032da38b59bfbe120f8eab80c8cbce29f124f53edd139597fd794a8d0670c",
-    "git_hash": "5efeb9d8ca0eff5d15b2876c97101b57377f1648"
-  },
-  {
-    "version": "0.1.1-pre.12",
-    "container_hash": "8904818d26a26732ca5a1469ab8a918b308ce012cc110e5591e182f9d5a361fd",
-    "git_hash": "28726e936f4be45a31ca3cdfe1eccc65659aa5d7"
-  },
-  {
-    "version": "0.1.1-pre.13",
-    "container_hash": "9b2fd9d5f795fe71882fb006a11772e0132a69f6748ca8a4ad8c3bd7f07cf492",
-    "git_hash": "f3c2d7f032b6e6626b0354fc55fd4f778819ec38"
-  },
-  {
-    "version": "0.1.1-pre.14",
-    "container_hash": "256d0d28fd715f4ef17e3e9f1f061bfd8334b8cd5f0e8b9685d50d0f8834d6e3",
-    "git_hash": "e6cb681471b3162b7a02d49aff270e835d96bdc3"
-  },
-  {
-    "version": "0.1.1-pre.15",
-    "container_hash": "36efe25eb281b92d05c2f2dd7f6dde7034f4d6e142d63d3e29f5d9a7478bd25a",
-    "git_hash": "705d9ebca425b846f5a54d180e3b0972aed17dc3"
-  },
-  {
-    "version": "0.1.1-pre.15",
-    "container_hash": "97f795c5f779a03457841080ef8ad20ed644ae102931f0916f37e712f86e24fa",
-    "git_hash": "4603149e1e5ab469b5f5043403188c61537ced29"
-  },
-  {
-    "version": "0.1.1-pre.16",
-    "container_hash": "53c2212a31c478c92499678dffb7a487ef1efaddcf6b7f472f262cf8cfc0323f",
-    "git_hash": "8d9052ed7f479f216e282cc00160e75e5a2300ca"
-  },
-  {
-    "version": "0.1.1-pre.17",
-    "container_hash": "701937ae8401f09c0c81ae4ae127729919eff58a5f18ae9157e3684cb2be873d",
-    "git_hash": "d5f02d968275f8c2fca29821048f1bdd6514d7c3"
-  },
-  {
-    "version": "0.1.1-pre.18",
-    "container_hash": "c90f7c669ab7c0e51dad6ab140ef709cb32f06730bc6df9bf1e7c7f4df2c2946",
-    "git_hash": "aed6131f8a9299071bd75988e87c594fbd53acd7"
-  },
-  {
-    "version": "0.1.1-pre.19",
-    "container_hash": "f7e1f2fc2216f40a0e460ff12fb54701ec4e31ca7b084797f2b480944fb9b6bf",
-    "git_hash": "a6d67e19329d492d8556bf1210779b8e204bb163"
-  },
-  {
-    "version": "0.1.1-pre.2",
-    "container_hash": "33d55379ab848de60bbf3bda167009650f4cea373513a3d6f589dffe84b44429",
-    "git_hash": "2c13cb2874bd9c5924807faed30c916beb1dc96e"
-  },
-  {
-    "version": "0.1.1-pre.3",
-    "container_hash": "0d8c14660ed3fb095d2f952574f1e543cc510aeb6474aab1670c4c710654c7bb",
-    "git_hash": "0468e1de2a01f34bda41e52f9c75bd24a3f512c1"
-  },
-  {
-    "version": "0.1.1-pre.4",
-    "container_hash": "33e8316178abf2df4fb4e11c6b5754dd2963ceac35d6fe01a824a124a4d1aea5",
-    "git_hash": "6f1725e5fc551be25e35f80467fd367b2130411c"
-  },
-  {
-    "version": "0.1.1-pre.5",
-    "container_hash": "04b957d30aacad427d6d77cf93baf7a7cd4a0a228eb254863f7d7b1bbe0d0625",
-    "git_hash": "5d4219fd63f2b1e4405acf46b558fb2219023244"
-  },
-  {
-    "version": "0.1.1-pre.5",
-    "container_hash": "3c266f22a9724172777d707fa747f9bacc207d1a25acc291e27d030366634b0b",
-    "git_hash": "d7ef524905e069ecb9ffb6a4ddf9a7746410f55b"
-  },
-  {
-    "version": "0.1.1-pre.5",
-    "container_hash": "7726433f6950e97a080cb86c0e115372f5c2234858a0f78fa7cf46c928b10d3e",
-    "git_hash": "0db70ec00b3dcd1cbc5bb55d46ee7753db9c106f"
-  },
-  {
-    "version": "0.1.1-pre.5",
-    "container_hash": "79027b7ae13c14eb978206c43247354a31846cbdec385d338dd9764ac352e15f",
-    "git_hash": "13f930288c93605ad2212bea6e8fe01130532f88"
-  },
-  {
-    "version": "0.1.1-pre.5",
-    "container_hash": "8188f67ef56b7b624fa2347c7d6f0a551e7ffa5b5047b46a9e9163f7f52e5455",
-    "git_hash": "0b411949fa9efcd26d81d16f13d7a26509fff69c"
-  },
-  {
-    "version": "0.1.1-pre.5",
-    "container_hash": "835492785a0d3cdc50185db9ec243cca72145b9ede739416dcf0fe59da9527c0",
-    "git_hash": "212144a5b3d2c4de985be210d72c9b67a25c5a32"
-  },
-  {
-    "version": "0.1.1-pre.5",
-    "container_hash": "aa55a389ea60577ba97cd0f0406f7bfb18386fc4b5e906a76c170302b8272efb",
-    "git_hash": "f38023ed8e4813509ccef28bd57ef3af66fa4dac"
-  },
-  {
-    "version": "0.1.1-pre.5",
-    "container_hash": "bc8e5fdecea742f0c1ff70a848e0f5414e15405ed578f9a68be73a7d63d0834b",
-    "git_hash": "fa017c664b161b602a54885e42884657b830a6c6"
-  },
-  {
-    "version": "0.1.1-pre.5",
-    "container_hash": "e24748caed5b20f802ac9f00bb8b5a390ca5214576f89435fce22d696342e2a8",
-    "git_hash": "6f151d689c7cae2c6553bf06611f08616bde627c"
-  },
-  {
-    "version": "0.1.1-pre.6",
-    "container_hash": "d5187d8e8a01d7976772489f3cb1f8e0a071b8479107422079c0ac427282227f",
-    "git_hash": "3a8b349a673abb5f3edac3abc312fd9435523d8b"
-  },
-  {
-    "version": "0.1.1-pre.7",
-    "container_hash": "98b8354b693b26bc661d789d1325f1fa714060aa0981186d818f849c044ad117",
-    "git_hash": "ca6b40254a5e6dbdba09a739acb510e322694e23"
-  },
-  {
-    "version": "0.1.1-pre.7",
-    "container_hash": "cadbbff971020c861a3252009609de1dc63c2527560bff12ba5d1c22bded9768",
-    "git_hash": "735d6519022f01809e9d42b0374a61a5f0c27e38"
-  },
-  {
-    "version": "0.1.1-pre.8",
-    "container_hash": "67883173c4650d14a9cf86b35ad2510b963af6adb3738af4100fd2f2f220798e",
-    "git_hash": "e0fea15ee78ee643e69c3706e2221ea667566723"
-  },
-  {
-    "version": "0.1.1-pre.9",
-    "container_hash": "9f82ff18960b29d97b503f1ecb2c304b59bc7ceb9179532ee45b3370e7b22208",
-    "git_hash": "cdf1e5a423a784ef47d37404c53157564d19e5ba"
-  },
-  {
     "version": "0.2.0",
     "container_hash": "006531a98b3f43becd864201e4d71e6e72fa130cbf665ebf051f54ed451d7920",
     "git_hash": "f226cfddf1d0cfa6b766096fc73e5cd8ef9bf682"
-  },
-  {
-    "version": "0.2.1-rc.1",
-    "container_hash": "3379077261d94ef34de5e055a78c21bdc22bf81d6bc622925afe58109eb95810",
-    "git_hash": "fb9a59fa8113e4e1203ebcd829948b31ec1804c7"
-  },
-  {
-    "version": "0.2.1-rc.10",
-    "container_hash": "41c9937198bcee1a813fc5372cebda5d49001b1b1b7968644f83c726e7cda6e4",
-    "git_hash": "14ef3e556ea92513f8a25d99f46b97fbba9c53aa"
-  },
-  {
-    "version": "0.2.1-rc.11",
-    "container_hash": "1204d3b6383a2a953d13e704b89f34de1747095276a60be32a42a45d25d51e23",
-    "git_hash": "1fef6489f3ad924c8b78caab3caa7bd287146c70"
-  },
-  {
-    "version": "0.2.1-rc.12",
-    "container_hash": "c1033406a687430a64c88c7982ef9cf08dfc6c4f17da4010b8eeb4fac489741f",
-    "git_hash": "b94e79dc05c544d70ad13402ba6e9c6e501e77ea"
-  },
-  {
-    "version": "0.2.1-rc.13",
-    "container_hash": "b0bd286127399d812851a7133096aa521b2acdbce8a2c24328250fc14ce6e39a",
-    "git_hash": "c6378ea35d7acb442cbd00753146376fc793e43d"
-  },
-  {
-    "version": "0.2.1-rc.14",
-    "container_hash": "c22ea7f0532a5d9175006c2147d6abf0858c6a80fb3a52a05df3f1a5e642846a",
-    "git_hash": "158109fbeec2cc11545f3a39b19c543c1f845577"
-  },
-  {
-    "version": "0.2.1-rc.15",
-    "container_hash": "79dab0dd253cf6290a1bb13d3491fbd3dbf847ca1e2422f87abbb1f9d677bab6",
-    "git_hash": "738abdebb048c6d086df5d8869e11eaada44e9b7"
-  },
-  {
-    "version": "0.2.1-rc.16",
-    "container_hash": "1670468f32d1f6122db45a0a28c86b7157c9064cab613019bf39ce59602bf9a4",
-    "git_hash": "5155f42a64493c4a4043852acee6dd2d0285f1cd"
-  },
-  {
-    "version": "0.2.1-rc.17",
-    "container_hash": "1f195e27f01693c3403910d5e7d4d776a5859b63f5b9f452dddc84ae6aa83807",
-    "git_hash": "00a1c4e36d868411cc83954cc16c0c8974ac62e9"
-  },
-  {
-    "version": "0.2.1-rc.18",
-    "container_hash": "ebedde152f2341abba8c7816abd2e783f5d2d20232f769466fba8a2db73288da",
-    "git_hash": "7ea4058829fb87f3376904746e595e23cb082db1"
-  },
-  {
-    "version": "0.2.1-rc.19",
-    "container_hash": "55a2ece9a8cba45bef13d3803725bc48a60f8c0f3df209796d18fa30f3774da8",
-    "git_hash": "d4b58af2e426ddabaa0660e50654fb1bf6122a98"
-  },
-  {
-    "version": "0.2.1-rc.2",
-    "container_hash": "307c276250155d5e96d9c77b46a6ce40f4d32d7995e9f29354830ee2782f24d2",
-    "git_hash": "99f6d207a920b3b5db563d6ff3f0bd8647395c88"
-  },
-  {
-    "version": "0.2.1-rc.20",
-    "container_hash": "0527e7e0a8daa1e52cfcfeebe5bf60601a4f8dbae225698a7cf40f01d9ba1554",
-    "git_hash": "1f421d4bc81619d278882f31f3b2f2fb12712c8f"
-  },
-  {
-    "version": "0.2.1-rc.3",
-    "container_hash": "4ec459136e6c516cb9c032e2c3eecc975c79706d21b2343d58056fa1ff7318b3",
-    "git_hash": "44992b0db1f1353a740d08411899371ef0bf47e2"
-  },
-  {
-    "version": "0.2.1-rc.4",
-    "container_hash": "d524de2b970f2e32b216f90619334a0b3e92b111dd695f5eba39801a16635354",
-    "git_hash": "8eece03bf5fe4222e3607e58d14986cacd5c07b5"
-  },
-  {
-    "version": "0.2.1-rc.5",
-    "container_hash": "40626902e8ec0415436916827e1ba420ccd5df63aba70ef3e5b5fe2c05670802",
-    "git_hash": "e8548c4e84e2040bdb262f6814071581234ae1d8"
-  },
-  {
-    "version": "0.2.1-rc.6",
-    "container_hash": "9d3afd500faaad18cd56ed553ac33fff2a6cb533530a10916df3d2ee33bed252",
-    "git_hash": "d38e0932d41fd17343e70da9542d8a0e27e1aa8e"
-  },
-  {
-    "version": "0.2.1-rc.7",
-    "container_hash": "427d38ea9f750eca8623854fd12c0074438a30f84a9be865a77c097279b7e965",
-    "git_hash": "7f80b890ab435e92f4d234a5e76c0ba4566486bd"
-  },
-  {
-    "version": "0.2.1-rc.8",
-    "container_hash": "1e914a258e12f11e40271646eb2f6914791ccff664d860725c38efd6bf0962e6",
-    "git_hash": "961643655bbec930207b581562689ee1879d63bb"
-  },
-  {
-    "version": "0.2.1-rc.9",
-    "container_hash": "617cbf74f806e4a948b11e7e73ab884d3ce76826d3f8ffb0a17de0bc1e4dd3d6",
-    "git_hash": "1dd3957b823887af7bd1245b56609faf1bbcec04"
-  },
-  {
-    "date": "2022-04-08",
-    "version": "0.2.1-rc.21",
-    "container_hash": "ac70311f521d3140ffd3d856b17e5733f4306c002e99dd10792b912a394b1af1",
-    "git_hash": "2f22589260c2cac809b117563385391116482977"
-  },
-  {
-    "date": "2022-04-08",
-    "version": "pr-135-Add-rebuild-workflow-and-update",
-    "container_hash": "e72b27f71a9155ba0708d9757b50786335c851119a41e19d8706cd8d19e176f6",
-    "git_hash": "d25e109a1dc466308f00ff4169a8226116f84e3a"
-  },
-  {
-    "date": "2022-04-14",
-    "version": "0.2.1-rc.22",
-    "container_hash": "3ed8c0c4ae3ae68d6ea3a5532e453389affd20de0bb5d826d2fef0275620cc16",
-    "git_hash": "fbe2dffe85c541a004c26d29bcf91c3cf9b0547e"
-  },
-  {
-    "date": "2022-04-14",
-    "version": "0.2.1-rc.23",
-    "container_hash": "fcacbecb9c4ba7e9b92d3b70f48a3fe6ea617f0bb02fae87ec6cd6082a39cc33",
-    "git_hash": "4347f0c4cea54cb9616fe2fa537e3562d3681fe4"
-  },
-  {
-    "date": "2022-04-14",
-    "version": "0.2.1-rc.24",
-    "container_hash": "cf43d24bfad48da7f5551448f4b970028ae8b0f47ec3558d53ff7396989d8bed",
-    "git_hash": "ddfc22116ef67c7292ff1aeee12de1bb849f0149"
-  },
-  {
-    "date": "2022-04-14",
-    "version": "0.2.1-rc.25",
-    "container_hash": "49a68c10b382d80eca89fc06dab851f5ff4e9b7f1e4def39734393494c92faa3",
-    "git_hash": "2531a899a180e26430c4aa6103ce02dab7007474"
-  },
-  {
-    "date": "2022-04-15",
-    "version": "0.2.1-rc.26",
-    "container_hash": "3e736eb85806160ca8fc14232a5d751b165fb033f57690f1b09ffa67d538b13b",
-    "git_hash": "3fcbe347fe7c8fb5d346682446add2ca242dd935"
-  },
-  {
-    "date": "2022-04-18",
-    "version": "0.2.1-rc.27",
-    "container_hash": "a25adf5324b10264cdccb7376ea688871d88f506e256c79483f250bd3cf8a765",
-    "git_hash": "34792b380c00b5db73604433a2300562cbce250f"
-  },
-  {
-    "date": "2022-04-18",
-    "version": "0.2.1-rc.28",
-    "container_hash": "e40feb322fb88e7ff0110301c1900999de0b13eef2eba87c7d0e172fe2b9f735",
-    "git_hash": "15e47fd1c86f875d9dfed7c0cf80c865e770bc84"
-  },
-  {
-    "date": "2022-04-18",
-    "version": "0.2.1-rc.29",
-    "container_hash": "54d4fde78b296cd4d43e8f2a348128e54818de087655bddd887015cdf6f4e370",
-    "git_hash": "4fed47b440c2f42fc35e69c3d17bf90d6c00f510"
-  },
-  {
-    "date": "2022-04-19",
-    "version": "0.2.1-rc.30",
-    "container_hash": "a3f1c20d3c2f3499f29cff1bada7f08bb53f4766256908c0f3e9cfbfc265531e",
-    "git_hash": "3b2f7236bd868d7f229fb6e7f6e21ccec7048fb7"
-  },
-  {
-    "date": "2022-04-21",
-    "version": "0.2.1-rc.31",
-    "container_hash": "fca9bb3ee5a73ab15ea98925b63ba3abd355ac4d1af33b771f2f08dee60b10e6",
-    "git_hash": "e59253ed0fbf447dae59569d9d0e743ae38192ab"
-  },
-  {
-    "date": "2022-04-21",
-    "version": "0.2.1-rc.32",
-    "container_hash": "eb7ebc8b7c15b82ea35debab1ecdb52a8c51574bfd8b162df3e4e133e576ecb3",
-    "git_hash": "e2b55a05286f69461718f5fc104ccc040dedbd54"
-  },
-  {
-    "date": "2022-04-21",
-    "version": "0.2.1-rc.33",
-    "container_hash": "4dda84d7008c303cc63278d6060803ae37d024fc80649009912620617c918e06",
-    "git_hash": "ce3d9ecbeb2181e86839b811ada1b77c1ff6e6ab"
-  },
-  {
-    "date": "2022-04-25",
-    "version": "0.2.1-rc.34",
-    "container_hash": "a71d58e9373034a529be4067da6baa7f51717c78a446d277b5423f8d7f20d6b4",
-    "git_hash": "7e735b668d2c74eed0156414b64e3997339f73e5"
-  },
-  {
-    "date": "2022-04-28",
-    "version": "0.2.1-rc.35",
-    "container_hash": "b63abeeef0e8969274049abd9ae51d77321775140a5fdae7fe2a439a3f7c34c5",
-    "git_hash": "b0e850c26613cbd5b5a4131dcf5ccbf201d60876"
-  },
-  {
-    "date": "2022-04-28",
-    "version": "0.2.1-rc.36",
-    "container_hash": "44bb94f7e900293245ef7a47746214605c8ab278bb60150461e2791b18a5ae5c",
-    "git_hash": "2b84431b7175839c894de856227906fbc00e7c69"
-  },
-  {
-    "date": "2022-04-28",
-    "version": "0.2.1-rc.37",
-    "container_hash": "4aef77e1010c3a98aa92e1cb37eda1f7f78a912b98853286ee5360da7d798276",
-    "git_hash": "866f0e9172469e8ae715f908db774d1165f45c5d"
-  },
-  {
-    "date": "2022-04-28",
-    "version": "0.2.1-rc.38",
-    "container_hash": "9f7f4ab9b47e012ab1fdfe99b5646df3d4ad628f4d05748e90e6c90497616497",
-    "git_hash": "105877fd442509d8e016066c3a705f689ba83da3"
-  },
-  {
-    "date": "2022-04-28",
-    "version": "0.2.1-rc.39",
-    "container_hash": "611635bc99e6acfa97a73c2cc1017665bdc2b7cb71cd0fa7aa2d515d70797681",
-    "git_hash": "16e1ccfdbf781ec63f5f8aa821ff59cfcf705a74"
-  },
-  {
-    "date": "2022-04-29",
-    "version": "0.2.1-rc.310",
-    "container_hash": "ceb901e12588943482e808c83509b3d8e66603278ff9e1ed4aae0dc2651da5bb",
-    "git_hash": "3a3e48a30d491294be7d50e3f8fdf48a02fd59d3"
-  },
-  {
-    "date": "2022-04-29",
-    "version": "0.2.1-rc.311",
-    "container_hash": "02434ec97399e7137eb3192154be1d8380d4101a527479776ac2b4290c06c000",
-    "git_hash": "e22b41e633241a743d34da9e9dd04c0794c13f96"
-  },
-  {
-    "date": "2022-05-02",
-    "version": "0.2.1-rc.312",
-    "container_hash": "c277c4be43f3678faffff7305abd7b504adb1ee8f2d83c261eea724f61836f6e",
-    "git_hash": "231fd726834692b94dc53528286dc82caaf92e71"
-  },
-  {
-    "date": "2022-05-05",
-    "version": "0.2.1-rc.313",
-    "container_hash": "20359d69d05fd377b3c3372f0675d5b541a8c023120ea68583c1ad830c808712",
-    "git_hash": "46da8816cad6152d02fe011f07d598a5076ef503"
-  },
-  {
-    "date": "2022-05-05",
-    "version": "0.2.1-rc.314",
-    "container_hash": "454e72dcda9389ffe116d9f52475824c5c9a61484467f3b4c443605038574537",
-    "git_hash": "5a590ecfae9000e9b962372d99a31e8959206dc5"
   },
   {
     "date": "2022-05-08",
@@ -411,28 +11,10 @@
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2022-05-09",
-    "version": "1.0.1-rc",
-    "container_hash": "21fd4ca66353e41981f30ac7a322725e2613a4596ff06d5ea28494db405d9abc",
-    "git_hash": "8b1f172dcdcc56ed195edc96a2efb3ccd7b37f54"
-  },
-  {
     "date": "2022-05-10",
     "version": "1.0.0",
     "container_hash": "55f6be610ea42462e7805c861f9e73b1f41c0063fa0c722debda9c78bd8fd1f7",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
-  },
-  {
-    "date": "2022-05-12",
-    "version": "1.0.2-rc",
-    "container_hash": "5ca4395e8b36f96a09a709655a13a5288da21a379c0496c618f3bc031ec74892",
-    "git_hash": "6687021cfe78968c69f7a0d45289934f38846f7c"
-  },
-  {
-    "date": "2022-05-16",
-    "version": "1.0.3-rc",
-    "container_hash": "84257bd6415b1f1cc8269e6352f893d00801405384a4ef06b64b391906e239c0",
-    "git_hash": "3e0333be2d3a953e023170f2dc7ddb9ce8e57f85"
   },
   {
     "date": "2022-05-17",
@@ -441,70 +23,16 @@
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2022-05-19",
-    "version": "1.0.4-rc",
-    "container_hash": "27143a9b14a134a2dd9b7c8116b336cf5002852f9b7f8c7f2cadfd3806b2a28a",
-    "git_hash": "888587d72b77b43e216bd890a0289785b3580bbb"
-  },
-  {
-    "date": "2022-05-20",
-    "version": "1.0.5-rc",
-    "container_hash": "dff4dadf0578b51fd0990de7bcb9e1da95274700c55d312ad847fd7117ef0b6b",
-    "git_hash": "010b7ce8fbc79d7e753627ca6f04a8e79f78306d"
-  },
-  {
     "date": "2022-05-24",
     "version": "1.0.0",
     "container_hash": "4a8db889239695a36d3f4a90526db959f51cc31a169b71c6894415f4dde4fddb",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2022-05-27",
-    "version": "1.0.7-rc",
-    "container_hash": "ec81e96af41742c9e98a9fa7297422d7fb694057b7761345a32933ec6af16911",
-    "git_hash": "25dafccd48551f7af31b95b2d43c81cf62f62671"
-  },
-  {
     "date": "2022-05-31",
     "version": "1.0.0",
     "container_hash": "aff48b9b7084eb5850ae0453921373de952a3487f5932f0e12bfa5ac7988ef42",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
-  },
-  {
-    "date": "2022-06-01",
-    "version": "1.0.8-rc.0",
-    "container_hash": "dd488d536b9240234c03e5a075bd7dac83d6b9cdd071d0e391f91c48b8f52082",
-    "git_hash": "52e72ce0330af54fb990e0fac9cc13e1df394c84"
-  },
-  {
-    "date": "2022-06-01",
-    "version": "1.0.1-rc.10",
-    "container_hash": "51772dac8273b6d1aa3f33790b9547ac0e51c8fd1dd9b89e3603bdc7442f7cc2",
-    "git_hash": "a177070b3746e216e9d0d4f0da09a5a0aa9dab3f"
-  },
-  {
-    "date": "2022-06-03",
-    "version": "1.0.1-rc.11-arm64",
-    "container_hash": "cff7fa3214a8d3a87bc0cc67b7478f41d27c63cf0f7e07bb1700a6155bfefd29",
-    "git_hash": "ee7db2257e3ad2e79f39222588f08fd3a0b96d88"
-  },
-  {
-    "date": "2022-06-03",
-    "version": "1.0.1-rc.11-amd64",
-    "container_hash": "b09ca3064bdba8400b512df63e22f7d3ac6ba5ef05a384566a932ece13345c82",
-    "git_hash": "ee7db2257e3ad2e79f39222588f08fd3a0b96d88"
-  },
-  {
-    "date": "2022-06-03",
-    "version": "1.0.1-rc.12-amd64",
-    "container_hash": "f316cea7809067a43721ff632a4f5c33fa4a419a7f9ddd6748dcb80bb258cc12",
-    "git_hash": "731126179903e6a9d164adf15a57b3d809246d08"
-  },
-  {
-    "date": "2022-06-03",
-    "version": "1.0.1-rc.12-arm64",
-    "container_hash": "e62dc146bee0acd0e371ac231aa51cad970ee22acbe6440b214a56943a0ddc2d",
-    "git_hash": "731126179903e6a9d164adf15a57b3d809246d08"
   },
   {
     "date": "2022-06-03",
@@ -517,18 +45,6 @@
     "version": "1.0.1-arm64",
     "container_hash": "b62576d18d64a7283f0b258d572e721ef57ef4711607a1ca3078a36a54873948",
     "git_hash": "b566f6edab817f282a3faeb17c6ba234dae9b1ab"
-  },
-  {
-    "date": "2022-06-06",
-    "version": "1.0.2-rc.0-amd64",
-    "container_hash": "70b2a880d770669e3c4016ab8a9d992468d4ca17420d4ea2a2cc3d6bf64a4474",
-    "git_hash": "1b60aa69ea94f6b9e403b656c900dbeb6e58e323"
-  },
-  {
-    "date": "2022-06-06",
-    "version": "1.0.2-rc.0-arm64",
-    "container_hash": "eb20869ed16f21b083bad4d5a9b28827810549a3345292ef3cdd3ab0e1d48ae0",
-    "git_hash": "1b60aa69ea94f6b9e403b656c900dbeb6e58e323"
   },
   {
     "date": "2022-06-07",
@@ -567,94 +83,10 @@
     "git_hash": "b566f6edab817f282a3faeb17c6ba234dae9b1ab"
   },
   {
-    "date": "2022-06-14",
-    "version": "1.0.2-rc.4-amd64",
-    "container_hash": "a8fff21c9dc46cf032f77f70733ca220032d0bf02adf2d9a3f6909f02a859c1c",
-    "git_hash": "2f0d4cc6a6530d783e726516ed4eef37e2c611ce"
-  },
-  {
-    "date": "2022-06-14",
-    "version": "1.0.2-rc.4-arm64",
-    "container_hash": "d15ae8d0cb98e6ba9d54173253005b9e80e47f4968ed2e6fd6daf09a7b8f2e06",
-    "git_hash": "2f0d4cc6a6530d783e726516ed4eef37e2c611ce"
-  },
-  {
-    "date": "2022-06-16",
-    "version": "1.0.2-rc.5-arm64",
-    "container_hash": "57ba94b05ef29d210df38aabdcd6632947135064f9f48bc8cf8e7f201fe6b7b0",
-    "git_hash": "748da59d497e1a015f2fd6e3ceaacfc135b71b7f"
-  },
-  {
-    "date": "2022-06-16",
-    "version": "1.0.2-rc.5-amd64",
-    "container_hash": "065743ddfcc044d0c765f690a0ea9c081525267e2cd29ed09263204d6105e9f5",
-    "git_hash": "748da59d497e1a015f2fd6e3ceaacfc135b71b7f"
-  },
-  {
-    "date": "2022-06-16",
-    "version": "1.0.2-rc.6-arm64",
-    "container_hash": "9a437aee8f4448330f74ee4a06da7ab46c7361b826c4f950427847454d9641a5",
-    "git_hash": "8af51c07d966c542854220ffa13ada6a948a97d0"
-  },
-  {
-    "date": "2022-06-16",
-    "version": "1.0.2-rc.6-amd64",
-    "container_hash": "3a7a6971dfd00a575f9497828a9669005fb392d5ff00f2025e6938c1b6c4351a",
-    "git_hash": "8af51c07d966c542854220ffa13ada6a948a97d0"
-  },
-  {
-    "date": "2022-06-17",
-    "version": "1.0.2-rc.8-arm64",
-    "container_hash": "a23fca0f3fd946e366dea151bcc8be5bfba3c1947075577643a51b9eaef5c4b9",
-    "git_hash": "b3944e7883ac0c0f8b5df3a3e575be170e0cfb73"
-  },
-  {
-    "date": "2022-06-17",
-    "version": "1.0.2-rc.8-amd64",
-    "container_hash": "0c87f970b766b3718e71b2c6607e4fa6ab6b09a8370d41f3b38aa923fe91b551",
-    "git_hash": "b3944e7883ac0c0f8b5df3a3e575be170e0cfb73"
-  },
-  {
-    "date": "2022-06-20",
-    "version": "1.0.2-rc.9-arm64",
-    "container_hash": "46d865dc7878dfaa3851009881f68a3edf83a3c0a6bfa6e7943434ca1b685cda",
-    "git_hash": "095606d27733a15bbc168aaea1d1d06d61fa8dad"
-  },
-  {
-    "date": "2022-06-20",
-    "version": "1.0.2-rc.9-amd64",
-    "container_hash": "41f9b4e66f37a544e6a13f82bf55f74438ecf43d156984c09b995caa105ee9f3",
-    "git_hash": "095606d27733a15bbc168aaea1d1d06d61fa8dad"
-  },
-  {
     "date": "2022-06-21",
     "version": "1.0.0",
     "container_hash": "1aa797068d2a5ed0613b6ba516a9e5da5b8e698ecfa15578103c8e91e2faeeb9",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
-  },
-  {
-    "date": "2022-06-21",
-    "version": "1.0.2-rc.10-arm64",
-    "container_hash": "9590c48897dd6059ffacc4a4788bb88c5accb52c3b3f0aecd10bc844a2818908",
-    "git_hash": "6741abe1a1bd333154a201a4a4c8e466e0971a4c"
-  },
-  {
-    "date": "2022-06-21",
-    "version": "1.0.2-rc.10-amd64",
-    "container_hash": "14defa96f9103512d314fd5e0a69b39409b02c0a03a21fa18a4fdafad5656642",
-    "git_hash": "6741abe1a1bd333154a201a4a4c8e466e0971a4c"
-  },
-  {
-    "date": "2022-06-23",
-    "version": "1.0.2-rc.11-arm64",
-    "container_hash": "090b7d758a97ce11ce74492989422629c7016a8ca8148854554cdbbde1ca8434",
-    "git_hash": "2b50635a1cb43392e7a5c82ed3a7867604a3f230"
-  },
-  {
-    "date": "2022-06-23",
-    "version": "1.0.2-rc.11-amd64",
-    "container_hash": "b590c7d6aa9b2110bbaafaf4fd9af42c68decd503ea8e8861fed98bebce8a2ad",
-    "git_hash": "2b50635a1cb43392e7a5c82ed3a7867604a3f230"
   },
   {
     "date": "2022-06-28",
@@ -667,48 +99,6 @@
     "version": "1.0.1-amd64",
     "container_hash": "d98987d8f6de547e2db9819494eb6641c042fceab430ab2878e09552501aabec",
     "git_hash": "b566f6edab817f282a3faeb17c6ba234dae9b1ab"
-  },
-  {
-    "date": "2022-06-30",
-    "version": "1.0.2-rc.12-arm64",
-    "container_hash": "d12353a0c54cb18055be3a8c5b69e3392089e55257210ae9ff0a7ef374a1a23c",
-    "git_hash": "54ae301f340872a1a60c9279ce8349a520924803"
-  },
-  {
-    "date": "2022-06-30",
-    "version": "1.0.2-rc.13-arm64",
-    "container_hash": "553bbe6c8cedb77e42e710c538f44372932e2e78b8d85f31297b6439c8c0e04c",
-    "git_hash": "c3ff4807944fe1729b2b77601ebc4f3ce75ce0ab"
-  },
-  {
-    "date": "2022-06-30",
-    "version": "1.0.2-rc.12-amd64",
-    "container_hash": "1856ea2e456961fb7292da80e5458d6acb2ba36d7b0837ff659f0b60de676c55",
-    "git_hash": "54ae301f340872a1a60c9279ce8349a520924803"
-  },
-  {
-    "date": "2022-06-30",
-    "version": "1.0.2-rc.13-amd64",
-    "container_hash": "4677394cebd3505d3f8e35871d23910ddaf5bd7bb3cb7a268c314ba7e12ad7b8",
-    "git_hash": "c3ff4807944fe1729b2b77601ebc4f3ce75ce0ab"
-  },
-  {
-    "date": "2022-06-30",
-    "version": "1.0.2-rc.14-arm64",
-    "container_hash": "4f329bb5a5deff07463539b51764dc52bf6dcc7b781dfbf9a21258af28f7ba3b",
-    "git_hash": "0ecb191bffa4ac91d649f386ad2cf072f4c633b8"
-  },
-  {
-    "date": "2022-06-30",
-    "version": "1.0.2-rc.14-amd64",
-    "container_hash": "cbe97496790dec4ba6d8aa9ef672297dfa92013873e52dfb787ba327aa500550",
-    "git_hash": "0ecb191bffa4ac91d649f386ad2cf072f4c633b8"
-  },
-  {
-    "date": "2022-07-04",
-    "version": "1.0.2-rc.15-amd64",
-    "container_hash": "56b352a11367a8a5bac27ca02442c1ea66ddbe0313f2536054fe6a6d025ca0d6",
-    "git_hash": "2b81d269a4f1febd1fd58e466f83aefd6193d26f"
   },
   {
     "date": "2022-07-05",
@@ -729,30 +119,6 @@
     "git_hash": "b566f6edab817f282a3faeb17c6ba234dae9b1ab"
   },
   {
-    "date": "2022-07-07",
-    "version": "1.0.2-rc.16-arm64",
-    "container_hash": "2a1730571ed7cc73db32536c898cc1c38910122484f20cd0f72ac2b0ed3155b1",
-    "git_hash": "d54b693c43e137af5577fab49475ee198fa02a1c"
-  },
-  {
-    "date": "2022-07-07",
-    "version": "1.0.2-rc.16-amd64",
-    "container_hash": "a5e27593a1a60a80558ed4a35f2791b43e5242e5fcc825bb29c05d9952c543fe",
-    "git_hash": "d54b693c43e137af5577fab49475ee198fa02a1c"
-  },
-  {
-    "date": "2022-07-11",
-    "version": "1.0.2-rc.17-arm64",
-    "container_hash": "3da70c053f63841312ea203b232660ac7422a3494a285a379783232c38879f48",
-    "git_hash": "bbc9f18be8fa8d2cc6f3a433c1ca90f2fb6fb9f0"
-  },
-  {
-    "date": "2022-07-11",
-    "version": "1.0.2-rc.17-amd64",
-    "container_hash": "b37d655a1c54c780af34628931d2b85b77c8b9d5349d62ed88ede41c1519d72d",
-    "git_hash": "bbc9f18be8fa8d2cc6f3a433c1ca90f2fb6fb9f0"
-  },
-  {
     "date": "2022-07-12",
     "version": "1.0.1-arm64",
     "container_hash": "f763d74538a3454080c2c51b512e4a0b80ffd922f5aed8aa59cb768859580776",
@@ -769,66 +135,6 @@
     "version": "1.0.1-amd64",
     "container_hash": "afed2b12641efb4bcb6e2040e5780b24dc6aec13d486fe9a895daa4ba1a18f7c",
     "git_hash": "b566f6edab817f282a3faeb17c6ba234dae9b1ab"
-  },
-  {
-    "date": "2022-07-14",
-    "version": "1.0.2-rc.18-arm64",
-    "container_hash": "ab39d362dc37176496a7ea45c1d447fe74bdeb66a95eb8d87f52a2f40b8721da",
-    "git_hash": "b54cda182d1f7f623a9e305b510a37fe3508b332"
-  },
-  {
-    "date": "2022-07-14",
-    "version": "1.0.2-rc.19-arm64",
-    "container_hash": "f2e95405d72e2fbc86fc450d319cf495cbf1cd36f2a1f7b721e648d938b2d78e",
-    "git_hash": "adbdaf1898f945cf3de7420a0ee6d5fe5175006d"
-  },
-  {
-    "date": "2022-07-14",
-    "version": "1.0.2-rc.18-amd64",
-    "container_hash": "488f2265b966a4c83beb4e5149e7aacc95ae725b8e24640e455b8f94a23655e6",
-    "git_hash": "b54cda182d1f7f623a9e305b510a37fe3508b332"
-  },
-  {
-    "date": "2022-07-14",
-    "version": "1.0.2-rc.20-arm64",
-    "container_hash": "22c905879e4319301b01387dc326fc27226144ae77fe8abb5c07ae2d343ee29d",
-    "git_hash": "8dd88d8ce388b4123ac82e7d30bb2bba634ddf53"
-  },
-  {
-    "date": "2022-07-14",
-    "version": "1.0.2-rc.19-amd64",
-    "container_hash": "1003722c350c771dd35a1b1600000781ece80db448cd18e46083a22fa1221552",
-    "git_hash": "adbdaf1898f945cf3de7420a0ee6d5fe5175006d"
-  },
-  {
-    "date": "2022-07-14",
-    "version": "1.0.2-rc.21-arm64",
-    "container_hash": "515882b7967727a6e87bd66338196cd901e887d25256451ac8dd126b4ad8b917",
-    "git_hash": "8c2a1c3b20be3ef0225c983ae6e1c302b58934bc"
-  },
-  {
-    "date": "2022-07-14",
-    "version": "1.0.2-rc.20-amd64",
-    "container_hash": "eabbd5e17b803f81fb9ca4252e1e8c8fbc0bf999b13a294a9d553d2266b104c7",
-    "git_hash": "8dd88d8ce388b4123ac82e7d30bb2bba634ddf53"
-  },
-  {
-    "date": "2022-07-14",
-    "version": "1.0.2-rc.21-amd64",
-    "container_hash": "6bb04dc8327e4f8b9e7192bbc9a68080f88999c3780ab5ed8f12e0ac33e7e397",
-    "git_hash": "8c2a1c3b20be3ef0225c983ae6e1c302b58934bc"
-  },
-  {
-    "date": "2022-07-14",
-    "version": "1.0.2-rc.22-amd64",
-    "container_hash": "9176da95298f8da673ff1f381158891d39792dc6995069118a5933577f4d75d9",
-    "git_hash": "3fa346773dc3372c739af77338b50fe7d1bd59f9"
-  },
-  {
-    "date": "2022-07-14",
-    "version": "1.0.2-rc.22-arm64",
-    "container_hash": "9895a485d9800b401ea4bb327b51d94f88749d08bf9bb7690ac9b9786784aa3b",
-    "git_hash": "3fa346773dc3372c739af77338b50fe7d1bd59f9"
   },
   {
     "date": "2022-07-19",
@@ -861,18 +167,6 @@
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   },
   {
-    "date": "2022-07-21",
-    "version": "1.0.2-rc.23-arm64",
-    "container_hash": "5bea73769cc3be6339ecc0c1322bac17f3db98bc6016a56c72468d2cdaffb6f2",
-    "git_hash": "2feee80531e0fa8ef8209cf4422a49523ed6428a"
-  },
-  {
-    "date": "2022-07-21",
-    "version": "1.0.2-rc.23-amd64",
-    "container_hash": "a3bd4eb1d21544adf752e823fc7bb23a933eddaccf5e5776d9014eab19068e22",
-    "git_hash": "2feee80531e0fa8ef8209cf4422a49523ed6428a"
-  },
-  {
     "date": "2022-07-26",
     "version": "1.0.1-arm64",
     "container_hash": "ac73d17a3670db4d33a1aed44ea918a65620fac5fc034b526b3ff136003bdbb3",
@@ -889,30 +183,6 @@
     "version": "1.0.1-amd64",
     "container_hash": "7d4666ce3674761bd06874fc485f8853177ff0328c43323b2909452203a30253",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
-  },
-  {
-    "date": "2022-07-28",
-    "version": "1.0.2-rc.24-arm64",
-    "container_hash": "f734370dbf02f8f68c63041333c9a1216faae387975918a258d26f75104b880b",
-    "git_hash": "2b6749c9d7f1f9e565c80eb285a37a48ffde364a"
-  },
-  {
-    "date": "2022-07-28",
-    "version": "1.0.2-rc.24-amd64",
-    "container_hash": "f7b4e7c5cfc9a17c04cfd7dc4be1c665605056597784c575454e778ca86ca01e",
-    "git_hash": "2b6749c9d7f1f9e565c80eb285a37a48ffde364a"
-  },
-  {
-    "date": "2022-07-28",
-    "version": "1.0.2-rc.25-arm64",
-    "container_hash": "f57e2848e1c832beefa95091faeb2daceec4f1fbd585aabbeaafdae14ec92642",
-    "git_hash": "563d682e465b5eb43dcecc436c5fd9fa4ccf45f4"
-  },
-  {
-    "date": "2022-07-28",
-    "version": "1.0.2-rc.25-amd64",
-    "container_hash": "342d7a66bb2981fdffaa17b05b3663d28092be5df71f2d10de5fbb6b7696e408",
-    "git_hash": "563d682e465b5eb43dcecc436c5fd9fa4ccf45f4"
   },
   {
     "date": "2022-08-02",
@@ -933,18 +203,6 @@
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2022-08-04",
-    "version": "1.0.2-rc.26-arm64",
-    "container_hash": "6047ee373d609054869bcc2fe46cfb6ccb37e323962f4c2ab481a285ab7fbb57",
-    "git_hash": "8064679e0dfff7c0598714cf9b786e8230b36ce1"
-  },
-  {
-    "date": "2022-08-04",
-    "version": "1.0.2-rc.26-amd64",
-    "container_hash": "3ef1869bf5162c969f4ead04b21126d2dff28b7380cc3fbe17f8e241271176cd",
-    "git_hash": "8064679e0dfff7c0598714cf9b786e8230b36ce1"
-  },
-  {
     "date": "2022-08-09",
     "version": "1.0.1-arm64",
     "container_hash": "ac73d17a3670db4d33a1aed44ea918a65620fac5fc034b526b3ff136003bdbb3",
@@ -961,54 +219,6 @@
     "version": "1.0.1-amd64",
     "container_hash": "28c1c77807a3a6a4a939139d7ee6764967f73faee1e8c68d0b5e0ba9c6431bea",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
-  },
-  {
-    "date": "2022-08-10",
-    "version": "1.0.2-rc.27-amd64",
-    "container_hash": "b80e1c5b733fcc85c84d049307c70306a7b3988aa73da931cf17a2a9a1feaeb2",
-    "git_hash": "4572a0b2968a6ff993a99c235e59872d47cc67d8"
-  },
-  {
-    "date": "2022-08-10",
-    "version": "1.0.2-rc.27-arm64",
-    "container_hash": "eb6fe98aa11ca92feeb4d3a14b129c2548ad238c418e279c756232ed644a79d5",
-    "git_hash": "4572a0b2968a6ff993a99c235e59872d47cc67d8"
-  },
-  {
-    "date": "2022-08-11",
-    "version": "1.0.2-rc.28-amd64",
-    "container_hash": "00df183d320149de87d8038b457bba8ea6a16376657458bc250d78ba8d52c831",
-    "git_hash": "3f024a44f75ff60975f7879c972bdf06dcf5c6f9"
-  },
-  {
-    "date": "2022-08-11",
-    "version": "1.0.2-rc.28-arm64",
-    "container_hash": "5432597a9862ea4b82ac6ae13aff87c683cf6b9366ad69f510bd6df8939507e8",
-    "git_hash": "3f024a44f75ff60975f7879c972bdf06dcf5c6f9"
-  },
-  {
-    "date": "2022-08-11",
-    "version": "1.0.2-rc.29-arm64",
-    "container_hash": "114dd61ecb04cd2a01efd9f6399b74d92d2986aea55aa77ae272f0e134449ea5",
-    "git_hash": "a1b241e15e7d3f3eff752e5e5f88031d0d3e4a38"
-  },
-  {
-    "date": "2022-08-11",
-    "version": "1.0.2-rc.29-amd64",
-    "container_hash": "0acf6000318db782dd794bdce123cab8a21abab6d94a4bf71f30c6e0ad3ea54d",
-    "git_hash": "a1b241e15e7d3f3eff752e5e5f88031d0d3e4a38"
-  },
-  {
-    "date": "2022-08-15",
-    "version": "1.0.2-rc.30-amd64",
-    "container_hash": "4dc5903b9f27dd64def77539c785165f5763a743a1d1dff3892e3c08f9e1f3dc",
-    "git_hash": "708306920832f5b1363a4ba5a0a3f9cf26f43ada"
-  },
-  {
-    "date": "2022-08-15",
-    "version": "1.0.2-rc.30-arm64",
-    "container_hash": "d736baea1a2a60898022d798e0d249b147ef76a09e5923dd38a318ab6e9e8ebb",
-    "git_hash": "708306920832f5b1363a4ba5a0a3f9cf26f43ada"
   },
   {
     "date": "2022-08-16",
@@ -1047,24 +257,6 @@
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   },
   {
-    "date": "2022-08-25",
-    "version": "1.0.2-rc.31-arm64",
-    "container_hash": "6215113ac4c9ea18a23ebb546c052e1e488b0cbcdff5bb36e53fe6708a0e8133",
-    "git_hash": "4eb25c002045e58a44bc7b17b1084da2b05ee25c"
-  },
-  {
-    "date": "2022-08-25",
-    "version": "1.0.2-rc.31-amd64",
-    "container_hash": "69144a8ef4d739d5f0a491ae50d571856a44984756697727f91f80fe36aabce9",
-    "git_hash": "4eb25c002045e58a44bc7b17b1084da2b05ee25c"
-  },
-  {
-    "date": "2022-08-29",
-    "version": "1.0.2-rc.32-amd64",
-    "container_hash": "cb52e7ea28960911f9f550400c99b5abd37721211b3001a09fb8c4e32582daf6",
-    "git_hash": "ead0577cfaf7f83226e33b80abe023ec17489eea"
-  },
-  {
     "date": "2022-08-30",
     "version": "1.0.1-arm64",
     "container_hash": "4a5d0baec242ca8127859598dc23c47e469bbb5842f3d5cb9cedf19fb728795a",
@@ -1081,18 +273,6 @@
     "version": "1.0.1-amd64",
     "container_hash": "bfacba590d4023e9324c6d0418dc7f12a5f7a309fdee47006211a8a8472fd233",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
-  },
-  {
-    "date": "2022-09-01",
-    "version": "1.0.2-rc.33-arm64",
-    "container_hash": "2f8cf2ab860058fe4b526a9cae217504c851b1b1dc2fe5bc5de943ad594d5841",
-    "git_hash": "3f5dff33b2138fcd599ce947338e2006c494c955"
-  },
-  {
-    "date": "2022-09-01",
-    "version": "1.0.2-rc.33-amd64",
-    "container_hash": "c439925f8af97fcc8038808d469db2bcabac9967248e841afb1e37d708866218",
-    "git_hash": "3f5dff33b2138fcd599ce947338e2006c494c955"
   },
   {
     "date": "2022-09-06",
@@ -1113,42 +293,6 @@
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2022-09-07",
-    "version": "1.0.2-rc.34-arm64",
-    "container_hash": "d1cf3c1030580b4a37dd7cba83d3b08e8d0c71ed893bf077c02bdbb1fb4f6f1b",
-    "git_hash": "3e4fbd2f5c4f3ea75e12656b65c77a82155fc464"
-  },
-  {
-    "date": "2022-09-07",
-    "version": "1.0.2-rc.34-amd64",
-    "container_hash": "a19cab7f0bd0eb43d209df5167bce195ef13105c914b1967283046934bdce528",
-    "git_hash": "3e4fbd2f5c4f3ea75e12656b65c77a82155fc464"
-  },
-  {
-    "date": "2022-09-08",
-    "version": "1.0.2-rc.35-amd64",
-    "container_hash": "9a80aa0e1bf01d0b8c8c7aa9c15a5bdb67dde1a5af8963fb392293d008bf5065",
-    "git_hash": "0961eba1d9a75c748ce9ab9d2a34a6cb7ac40264"
-  },
-  {
-    "date": "2022-09-08",
-    "version": "1.0.2-rc.35-arm64",
-    "container_hash": "1620010e8dd7dc4800ac1a6059439fce8b8e05da1b67dcc844dfc658fc190535",
-    "git_hash": "0961eba1d9a75c748ce9ab9d2a34a6cb7ac40264"
-  },
-  {
-    "date": "2022-09-08",
-    "version": "1.0.2-rc.36-arm64",
-    "container_hash": "b632acc9ef4855afa200e1220ada438a840b80d9c925642701f8a8344a99f013",
-    "git_hash": "682a803861c731f8d29e8bb36d129848f53d5d83"
-  },
-  {
-    "date": "2022-09-09",
-    "version": "1.0.2-rc.36-amd64",
-    "container_hash": "408b38bd60bc66b636053464beaef1c3016173a5ad80824e99cb1160e73b8d28",
-    "git_hash": "682a803861c731f8d29e8bb36d129848f53d5d83"
-  },
-  {
     "date": "2022-09-13",
     "version": "1.0.1-arm64",
     "container_hash": "4a5d0baec242ca8127859598dc23c47e469bbb5842f3d5cb9cedf19fb728795a",
@@ -1165,54 +309,6 @@
     "version": "1.0.0",
     "container_hash": "19090851aeba533883053ed6a0615de9fe49710d71dec5987c776c91deb7070c",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
-  },
-  {
-    "date": "2022-09-16",
-    "version": "1.0.2-rc.37-amd64",
-    "container_hash": "0a76555b4691b701485f8255bf25cdbee3ee28e7796c8d26878845c42ce61df2",
-    "git_hash": "da69b75c9fe57a71c775be7c8c184ead8124df19"
-  },
-  {
-    "date": "2022-09-16",
-    "version": "1.0.2-rc.38-amd64",
-    "container_hash": "87f5a9bd2c6aba0bdf1d1a825bae5245d1e97f747ed3a297c6e2d795131fa453",
-    "git_hash": "f101a1e3464df703f2883f3b3e533ce6f4a53920"
-  },
-  {
-    "date": "2022-09-16",
-    "version": "1.0.2-rc.38-arm64",
-    "container_hash": "414e4dffaf4a856c328770f98c2c045cf7ef9046bea6fbd5b9f745b9ea1c384b",
-    "git_hash": "f101a1e3464df703f2883f3b3e533ce6f4a53920"
-  },
-  {
-    "date": "2022-09-16",
-    "version": "1.0.2-rc.37-arm64",
-    "container_hash": "add52537f4acdc24ef78a346c24efc2d0ee7d169e920c8152bfa5531fcd7a9f5",
-    "git_hash": "da69b75c9fe57a71c775be7c8c184ead8124df19"
-  },
-  {
-    "date": "2022-09-16",
-    "version": "1.0.2-rc.39-amd64",
-    "container_hash": "4cfe4bc976f5c506c784a95cab38a177d0b3dd989019aa39ed6914a2c031d56f",
-    "git_hash": "d304ced17c2d6d3a471eb932739e47b8f3afc494"
-  },
-  {
-    "date": "2022-09-16",
-    "version": "1.0.2-rc.40-amd64",
-    "container_hash": "65467655108e8ad639bc94b58f4cd4376ad7a821c9505e1c2f779a9e2ea6d009",
-    "git_hash": "1f9d1c6e47e59cd29d3bb246d30c93dc7a153e8b"
-  },
-  {
-    "date": "2022-09-16",
-    "version": "1.0.2-rc.39-arm64",
-    "container_hash": "f98246ac1f705514654fd4a8c17b4de0c9224d0fd3b218226e3b4c79a3bedee5",
-    "git_hash": "d304ced17c2d6d3a471eb932739e47b8f3afc494"
-  },
-  {
-    "date": "2022-09-16",
-    "version": "1.0.2-rc.40-arm64",
-    "container_hash": "e9f9cd43fef175ea52573da2f68039bc7357a4be79d8d838a919949cf8fe7310",
-    "git_hash": "1f9d1c6e47e59cd29d3bb246d30c93dc7a153e8b"
   },
   {
     "date": "2022-09-20",
@@ -1233,30 +329,6 @@
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   },
   {
-    "date": "2022-09-22",
-    "version": "1.0.2-rc.41-amd64",
-    "container_hash": "6e91f5b8859f65db05a55073c99c7026abdb4ba26b89513d7097110753c8af12",
-    "git_hash": "28275a092ae7a7276037f64fbbff119f3c086e6b"
-  },
-  {
-    "date": "2022-09-22",
-    "version": "1.0.2-rc.41-arm64",
-    "container_hash": "8beda6d83a1cea177122fa6dad4c012b4d02ae78ec3404fc1d31898d1f13c831",
-    "git_hash": "28275a092ae7a7276037f64fbbff119f3c086e6b"
-  },
-  {
-    "date": "2022-09-22",
-    "version": "1.0.2-rc.42-amd64",
-    "container_hash": "6401325d8a6d41fccd8b39fa5814cb8ff5cf2413a6e4d025fb0876d4cca37b28",
-    "git_hash": "0f329c4039ddfccd12dc37c4817bb6211fd576b4"
-  },
-  {
-    "date": "2022-09-22",
-    "version": "1.0.2-rc.42-arm64",
-    "container_hash": "8a3aab3bad576398a154345d600375c9f311e9c978a9ff17a54227694f23c7c8",
-    "git_hash": "0f329c4039ddfccd12dc37c4817bb6211fd576b4"
-  },
-  {
     "date": "2022-09-27",
     "version": "1.0.1-arm64",
     "container_hash": "4a5d0baec242ca8127859598dc23c47e469bbb5842f3d5cb9cedf19fb728795a",
@@ -1275,42 +347,6 @@
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2022-09-29",
-    "version": "1.0.2-rc.43-arm64",
-    "container_hash": "55719f1d2fab12fce2bb9c54f377c84f6ddcd4e47b5455b08dd4859e5179a438",
-    "git_hash": "96eecc11827169ff815cf6fb82a4c803058ea647"
-  },
-  {
-    "date": "2022-09-29",
-    "version": "1.0.2-rc.43-amd64",
-    "container_hash": "d9053ff63b03b08832126a04a7d53a06e7adbe5effbafd689fc0c162f0425768",
-    "git_hash": "96eecc11827169ff815cf6fb82a4c803058ea647"
-  },
-  {
-    "date": "2022-09-29",
-    "version": "1.0.2-rc.44-arm64",
-    "container_hash": "b10b8614561ef5c19daf62fdecf95a86f62d8875caa3c88a60c435388b8cfea3",
-    "git_hash": "da7650148374ccd7101dc326547e9fc50f96e713"
-  },
-  {
-    "date": "2022-09-29",
-    "version": "1.0.2-rc.44-amd64",
-    "container_hash": "25f247787987892ec542af3f56e04ff6984e4968faa5c06bccb0063c35e7ded6",
-    "git_hash": "da7650148374ccd7101dc326547e9fc50f96e713"
-  },
-  {
-    "date": "2022-09-30",
-    "version": "1.0.2-rc.45-arm64",
-    "container_hash": "bafc803d854716b973f335244b024083f91c427ecf4ef55b9f68dbd179abe3f6",
-    "git_hash": "a3484752557ac49f6f83b5be64c08bc17943951f"
-  },
-  {
-    "date": "2022-09-30",
-    "version": "1.0.2-rc.45-amd64",
-    "container_hash": "0899411639902b2cb19b78a2898c1a84f4dd8ae75df7a01810857558b6f8c836",
-    "git_hash": "a3484752557ac49f6f83b5be64c08bc17943951f"
-  },
-  {
     "date": "2022-10-04",
     "version": "1.0.1-arm64",
     "container_hash": "4a5d0baec242ca8127859598dc23c47e469bbb5842f3d5cb9cedf19fb728795a",
@@ -1327,18 +363,6 @@
     "version": "1.0.1-amd64",
     "container_hash": "8e3c1465d44a4730fb4fdad7492e13bd44b92a5588829b5763d4e5cd106e288d",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
-  },
-  {
-    "date": "2022-10-06",
-    "version": "1.0.2-rc.46-arm64",
-    "container_hash": "5e504584d39bf07dfe236e3be5daed7d5141f832b191f4d0f17b8d84d2d49a25",
-    "git_hash": "7c7e225a42789ed1e59e896ca500becfe2978e6a"
-  },
-  {
-    "date": "2022-10-06",
-    "version": "1.0.2-rc.46-amd64",
-    "container_hash": "a264436bc1f2fbf23c0e091acd28a5fd9e42bd6285cfc55bd7fa4bc66941ab66",
-    "git_hash": "7c7e225a42789ed1e59e896ca500becfe2978e6a"
   },
   {
     "date": "2022-10-11",
@@ -1395,46 +419,10 @@
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   },
   {
-    "date": "2022-10-25",
-    "version": "1.0.2-rc.48-amd64",
-    "container_hash": "e70c6e07685028131d12e0c59dd290e654e87da4059b38ed25943a3e46ecdb11",
-    "git_hash": "8d2c0b4d4c9b083c44ffbef57886fb7a62cabdfa"
-  },
-  {
-    "date": "2022-10-25",
-    "version": "1.0.2-rc.48-arm64",
-    "container_hash": "2414f2d7c8633b350e96059d12f1bca063a93d82b21f7d0cc85c10a00c7f5483",
-    "git_hash": "8d2c0b4d4c9b083c44ffbef57886fb7a62cabdfa"
-  },
-  {
-    "date": "2022-10-27",
-    "version": "1.0.2-rc.49-arm64",
-    "container_hash": "cf5f8aab18ecc4cd98550df492dbc675f5bbc61c53c3a6a3fc2b7d99dc57b59c",
-    "git_hash": "7d4f91246874acc5bb6d94d5a82919c76a2821d8"
-  },
-  {
-    "date": "2022-10-27",
-    "version": "1.0.2-rc.49-amd64",
-    "container_hash": "7a55fdf3ce428539f4e8a0a81a7a04a328bb818607b11960e9ac7f3d28685ce0",
-    "git_hash": "7d4f91246874acc5bb6d94d5a82919c76a2821d8"
-  },
-  {
     "date": "2022-11-01",
     "version": "1.0.0",
     "container_hash": "e5ee5893c42755083d33abfa878103e46520c22e4909357b56ff992a1d883ae9",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
-  },
-  {
-    "date": "2022-11-03",
-    "version": "1.0.2-rc.50-amd64",
-    "container_hash": "4653b40e712982a861f219d35f27600f2872e92b5ca8a4606933186072fd393d",
-    "git_hash": "1718074b8f74b9be1fadb1f5722a6e922da9ca5b"
-  },
-  {
-    "date": "2022-11-03",
-    "version": "1.0.2-rc.50-arm64",
-    "container_hash": "f14fed1a0e14c8f13aa860bef0b9a42c8d4d452579662091ae43994774cd31a0",
-    "git_hash": "1718074b8f74b9be1fadb1f5722a6e922da9ca5b"
   },
   {
     "date": "2022-11-08",
@@ -1455,18 +443,6 @@
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2022-11-10",
-    "version": "1.0.2-rc.51-arm64",
-    "container_hash": "ff887be5f9322a6878b531c4ddb80753cd564c015e6780e635f748de171887b2",
-    "git_hash": "c3cab66344b8ae0139edc24afa5763f5c8c2950a"
-  },
-  {
-    "date": "2022-11-10",
-    "version": "1.0.2-rc.51-amd64",
-    "container_hash": "4a389e97930fd3aafe51cb4e1577b46aa46536d460351c10e9791338726c00bc",
-    "git_hash": "c3cab66344b8ae0139edc24afa5763f5c8c2950a"
-  },
-  {
     "date": "2022-11-15",
     "version": "1.0.1-arm64",
     "container_hash": "20e950d126c7a2ff79673cc52a0d793b02a304b7a1920bc79fb52396e6db9fe6",
@@ -1483,42 +459,6 @@
     "version": "1.0.1-amd64",
     "container_hash": "1f19e0b3af0545d6df854fdd4b4a12e8fae7f41debcc4d9e6bd8a8285c347bd7",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
-  },
-  {
-    "date": "2022-11-17",
-    "version": "1.0.2-rc.52-arm64",
-    "container_hash": "d89a5bd7eedb52f852d6306db272702cd11d25c174ef9abf8cb546011a6b9917",
-    "git_hash": "aecd88be2cb550a4c7bcad0f3eca589325bff6f4"
-  },
-  {
-    "date": "2022-11-17",
-    "version": "1.0.2-rc.52-amd64",
-    "container_hash": "8209bb739d96d2ff443290269a2d1bc4790defa6c39558ba33d7e29d7f63a065",
-    "git_hash": "aecd88be2cb550a4c7bcad0f3eca589325bff6f4"
-  },
-  {
-    "date": "2022-11-18",
-    "version": "1.0.2-rc.53-arm64",
-    "container_hash": "ffc11c2978f024a00db708fff4a9ce4e72c50c9d7a142221fda409e7e4ebf486",
-    "git_hash": "e86c7a5152d86c28adc530623774a2e1a91fd2c1"
-  },
-  {
-    "date": "2022-11-18",
-    "version": "1.0.2-rc.53-amd64",
-    "container_hash": "ceda16e9c0fd6d8212d964d24fa30aac3e1d4e92de72a9d40ea87d04f9954d2c",
-    "git_hash": "e86c7a5152d86c28adc530623774a2e1a91fd2c1"
-  },
-  {
-    "date": "2022-11-21",
-    "version": "1.0.2-rc.54-arm64",
-    "container_hash": "1668c3762052dc9502cc6cc9c3c6a6eef3aec7eac9afa78c531c232eb44c3b9d",
-    "git_hash": "5459157eea92734a17f27e1f8a06c692ada4cc10"
-  },
-  {
-    "date": "2022-11-21",
-    "version": "1.0.2-rc.54-amd64",
-    "container_hash": "1d029a2f13fbb35199e15571b49b5e9a472050672260471716f192debd96be8b",
-    "git_hash": "5459157eea92734a17f27e1f8a06c692ada4cc10"
   },
   {
     "date": "2022-11-22",
@@ -1539,18 +479,6 @@
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2022-11-28",
-    "version": "1.0.2-rc.55-arm64",
-    "container_hash": "f9ef667a1ec700a06c3f1fb7f58103ef9a5b5da03628ccf7f8ed48151a4ac2f0",
-    "git_hash": "31595e0978397f8ef388a22da71f84b5314484ba"
-  },
-  {
-    "date": "2022-11-28",
-    "version": "1.0.2-rc.55-amd64",
-    "container_hash": "4c5b63ecaa23d659f7a7674eab79e5aaa5c65fdbeedb5e3bfcf1f030028abdde",
-    "git_hash": "31595e0978397f8ef388a22da71f84b5314484ba"
-  },
-  {
     "date": "2022-11-29",
     "version": "1.0.1-arm64",
     "container_hash": "20e950d126c7a2ff79673cc52a0d793b02a304b7a1920bc79fb52396e6db9fe6",
@@ -1569,106 +497,10 @@
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2022-12-01",
-    "version": "1.0.2-rc.56-amd64",
-    "container_hash": "3ceaa718a98411fd2d011e90a866a612ecca96c3269f3c7fb29ee0b4715ff3e1",
-    "git_hash": "7bf994b8734005f9c6ac7d91a4cafb322e6be050"
-  },
-  {
-    "date": "2022-12-01",
-    "version": "1.0.2-rc.56-arm64",
-    "container_hash": "c0d3d9472cbceed6cb73e3eddcdc228c9ddd120394d63c32e009381191713bd4",
-    "git_hash": "7bf994b8734005f9c6ac7d91a4cafb322e6be050"
-  },
-  {
-    "date": "2022-12-01",
-    "version": "1.0.2-rc.57-amd64",
-    "container_hash": "fd0d7d20e492acd56bfb693dd8463ec15d1009f4e8bf53bccd2c32665b1ddf25",
-    "git_hash": "8b0a9812717fb18fa38386454caa597bf1d10c73"
-  },
-  {
-    "date": "2022-12-01",
-    "version": "1.0.2-rc.57-arm64",
-    "container_hash": "4650a4234d9a2c0c22ed65898159a528930cd0b75e65667dbeb0032af183dd0e",
-    "git_hash": "8b0a9812717fb18fa38386454caa597bf1d10c73"
-  },
-  {
-    "date": "2022-12-01",
-    "version": "1.0.2-rc.58-arm64",
-    "container_hash": "f220193272cb7b72cda558a802df58acb3843e42c044a8d8c7d7cc430b944ab6",
-    "git_hash": "3e64dbf2d623f77ff7fed50a98013ce5a2feaeab"
-  },
-  {
-    "date": "2022-12-01",
-    "version": "1.0.2-rc.58-amd64",
-    "container_hash": "9c2ee9a949fecc5d3bd852028b1786e96a12b2a78c1a89c0a12712531a9210a7",
-    "git_hash": "3e64dbf2d623f77ff7fed50a98013ce5a2feaeab"
-  },
-  {
     "date": "2022-12-06",
     "version": "1.0.0",
     "container_hash": "4a3cabed4bd212385969a544e0b1e6a139e6f94dac6e234937531019a1d6aba0",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
-  },
-  {
-    "date": "2022-12-09",
-    "version": "1.0.2-rc.59-amd64",
-    "container_hash": "e8d60733ebd85b3352e511d22512a246c47b879a5204d8b31a4c9d307210fd89",
-    "git_hash": "8f3f220d563277574f1447470ec89fad2f5ada87"
-  },
-  {
-    "date": "2022-12-09",
-    "version": "1.0.2-rc.60-amd64",
-    "container_hash": "0c440d8238a624c28e275539d32b113c16b4d3a1e2b33119778580929d398f01",
-    "git_hash": "d9d38e3aa38c274c5a96d5d4b7fdbc323493d1a9"
-  },
-  {
-    "date": "2022-12-09",
-    "version": "1.0.2-rc.61-amd64",
-    "container_hash": "58be1ff95ea9647f7586d5d6b971f20af9edcd03ccbca3d756346ca80b91b97d",
-    "git_hash": "8b5b142fbbd82ca21b77b14bc6a419ac97891ba2"
-  },
-  {
-    "date": "2022-12-09",
-    "version": "1.0.2-rc.59-arm64",
-    "container_hash": "426ebd86a6402faf72e78ccbdb21b589e254d8e5b3ef8cebbcc0e93ddc265cea",
-    "git_hash": "8f3f220d563277574f1447470ec89fad2f5ada87"
-  },
-  {
-    "date": "2022-12-09",
-    "version": "1.0.2-rc.62-amd64",
-    "container_hash": "fa6a602458361f859aaacedb5c2edcb0f6ef687fbe0a609ca8a19f5c18f32ccb",
-    "git_hash": "4379bd5cd149b4d02d47fca90a9594522952f336"
-  },
-  {
-    "date": "2022-12-09",
-    "version": "1.0.2-rc.60-arm64",
-    "container_hash": "9e0201ab3f52bdbf8f2ad78c4ee4cd19a07918c0a59ae136a306833d92d5b816",
-    "git_hash": "d9d38e3aa38c274c5a96d5d4b7fdbc323493d1a9"
-  },
-  {
-    "date": "2022-12-09",
-    "version": "1.0.2-rc.61-arm64",
-    "container_hash": "281303f65a6d42915ce1f1de45c2c1e24fa3213c2a795ad5d9942494d56b4d30",
-    "git_hash": "8b5b142fbbd82ca21b77b14bc6a419ac97891ba2"
-  },
-  {
-    "date": "2022-12-09",
-    "version": "1.0.2-rc.62-arm64",
-    "container_hash": "0cd3302ea7208d5cbb43c58f384a5a303bbc187953c7642f1e3da8ae4103aab1",
-    "git_hash": "4379bd5cd149b4d02d47fca90a9594522952f336"
-  },
-  {
-    "date": "2022-12-12",
-    "version": "1.0.2-rc.63-arm64",
-    "container_hash": "b82ee0060cefdb21d5e23bcfbba07047cb27e199b59417bfdb66fa24d6d1f3c7",
-    "git_hash": "3a399bd08f951ba18364087c2ddb9beb008ec0f3"
-  },
-  {
-    "date": "2022-12-12",
-    "version": "1.0.2-rc.63-amd64",
-    "container_hash": "6907635ea9f9eebfe6c1645567466170e3a48f903954c356a1cc820f8fd2a1c9",
-    "git_hash": "3a399bd08f951ba18364087c2ddb9beb008ec0f3"
   },
   {
     "date": "2022-12-13",
@@ -1689,30 +521,6 @@
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   },
   {
-    "date": "2022-12-15",
-    "version": "1.0.2-rc.64-amd64",
-    "container_hash": "bf2106a58fdbec2245951bdf10f770ed57bc426f3bb6aa018aff8e91b0ea9d4a",
-    "git_hash": "c8568ccf4c548caba87b73b96849322fa92b8a5f"
-  },
-  {
-    "date": "2022-12-16",
-    "version": "1.0.2-rc.64-arm64",
-    "container_hash": "d3fea38dff45eea14b7fbbc2ae1ac11104741461e5191fe0694509076f86005a",
-    "git_hash": "c8568ccf4c548caba87b73b96849322fa92b8a5f"
-  },
-  {
-    "date": "2023-01-05",
-    "version": "1.0.2-rc.68-arm64",
-    "container_hash": "44564789898b335a07b0b15487ebd6b853ba964296869dccb0087afacdf563f7",
-    "git_hash": "1cfe428d219755c18d56fd4fb353b562502c00f9"
-  },
-  {
-    "date": "2023-01-05",
-    "version": "1.0.2-rc.68-amd64",
-    "container_hash": "59d0f891e6f9b9d08da3bfe845ea0bb7d2303046965ea579d38316fe60a4f45f",
-    "git_hash": "1cfe428d219755c18d56fd4fb353b562502c00f9"
-  },
-  {
     "date": "2023-01-10",
     "version": "1.0.1-arm64",
     "container_hash": "f3244a50051a4026bdcb9ed97f22dbeed5ac98e2c4b23bab688966bfa24c466a",
@@ -1729,36 +537,6 @@
     "version": "1.0.1-amd64",
     "container_hash": "58824eaa942db8182916b70741cedd8ea59d04ac4a2d65f169ea9320b8dea6b8",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
-  },
-  {
-    "date": "2023-01-10",
-    "version": "1.0.2-rc.70-arm64",
-    "container_hash": "4b75e9c0bc7d5d6a3f53eb6fa47946d1ff821f7ad61a8a115a83448607d215a2",
-    "git_hash": "94225becbed9540f39e2a452d942b323bd23ae35"
-  },
-  {
-    "date": "2023-01-10",
-    "version": "1.0.2-rc.70-amd64",
-    "container_hash": "74d528cc1f02eca7856e73d164c6d9b6f88f5c747f38b29df45623fc1b67dc70",
-    "git_hash": "94225becbed9540f39e2a452d942b323bd23ae35"
-  },
-  {
-    "date": "2023-01-12",
-    "version": "1.0.2-rc.71-arm64",
-    "container_hash": "de959a9ef8620833f67c2efe07c56738dc25698f86868c9d2fd08b6db2b1a3dd",
-    "git_hash": "ac8e1b317dad46f3ec3250374696a88523f09db2"
-  },
-  {
-    "date": "2023-01-12",
-    "version": "1.0.2-rc.71-amd64",
-    "container_hash": "294b8f0f10ea6f2ece07f84644a1b3ac62f9759319900b0749d52db052c01b49",
-    "git_hash": "ac8e1b317dad46f3ec3250374696a88523f09db2"
-  },
-  {
-    "date": "2023-01-16",
-    "version": "1.0.2-rc.72-amd64",
-    "container_hash": "e1e4a00b9d070a84535f48f57ac8ba57e660e64a5c9a14c67fe6452eb327fa0d",
-    "git_hash": "f75a3e0805e88072bf45cf3584ecdc2496e2b5b9"
   },
   {
     "date": "2023-01-17",
@@ -1779,24 +557,6 @@
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2023-01-19",
-    "version": "1.0.2-rc.73-amd64",
-    "container_hash": "d9f488ffb64a2f096e486bcecb7fc3d18fb30e5cdf4651054a168ef76169a4e0",
-    "git_hash": "35678522881a56facf400509931fe763185ae88f"
-  },
-  {
-    "date": "2023-01-19",
-    "version": "1.0.2-rc.73-arm64",
-    "container_hash": "738f5b5c5adc07114d75dcf916285cd594549a58f8d0409f14a396cbdd1aa4d4",
-    "git_hash": "35678522881a56facf400509931fe763185ae88f"
-  },
-  {
-    "date": "2023-01-20",
-    "version": "1.0.2-rc.74-amd64",
-    "container_hash": "41944e58a70e402e341877fa9f80462df76dd465c311adb9fc27cd02c2e6ecf4",
-    "git_hash": "b08cfb369c5608905582c9f56335ebcc8d1d07ad"
-  },
-  {
     "date": "2023-01-24",
     "version": "1.0.1-amd64",
     "container_hash": "68f7c167c51895b7f40cf5af5a91f6294539e91be1ddc319b9c61bb4a724417e",
@@ -1807,30 +567,6 @@
     "version": "1.0.0",
     "container_hash": "4fe8459e845de9df5329c5afa5f0e20dff0358730dd180967d1aa792f6060dcf",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
-  },
-  {
-    "date": "2023-01-26",
-    "version": "1.0.2-rc.75-arm64",
-    "container_hash": "e5afa5f9502c3c6473187b74c308b3d26c20cc071c16127d73e0dba1121ff7a7",
-    "git_hash": "9ec07eda78799e326c0adf11fec2fc20bd0aa78d"
-  },
-  {
-    "date": "2023-01-27",
-    "version": "1.0.2-rc.75-amd64",
-    "container_hash": "6d2ff26a8a1b5d86aecac5ed3372a414381e1c3994f8c436ef15d1c9012929c9",
-    "git_hash": "9ec07eda78799e326c0adf11fec2fc20bd0aa78d"
-  },
-  {
-    "date": "2023-01-27",
-    "version": "1.0.2-rc.76-arm64",
-    "container_hash": "d6b7f65578fb021bc0b4e4a4f893839574741fd7ba4d819d8efd4deaeb7f02ac",
-    "git_hash": "8d88337cf3b37d530c523774d72b3ee05fd2209a"
-  },
-  {
-    "date": "2023-01-27",
-    "version": "1.0.2-rc.76-amd64",
-    "container_hash": "4afdad436da6f5a587cf0fd488284d8b2fb9d5a372af715bea36008e9d1e3126",
-    "git_hash": "8d88337cf3b37d530c523774d72b3ee05fd2209a"
   },
   {
     "date": "2023-01-31",
@@ -1851,18 +587,6 @@
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
   },
   {
-    "date": "2023-02-06",
-    "version": "1.0.2-rc.77-arm64",
-    "container_hash": "4f5e8f61e39aa0821ba5bacce4df7e63819c1c8018532dc2c0e0e9d51485a01d",
-    "git_hash": "8ea9681b79f23657fd0b3dfcb67ae043a37e6b8c"
-  },
-  {
-    "date": "2023-02-06",
-    "version": "1.0.2-rc.77-amd64",
-    "container_hash": "01a4dbf2733838731e23dd285928e298b13e586ee9eee5f8ec1674d05499d5a1",
-    "git_hash": "8ea9681b79f23657fd0b3dfcb67ae043a37e6b8c"
-  },
-  {
     "date": "2023-02-07",
     "version": "1.0.1-arm64",
     "container_hash": "6b0271d7687ddc7ee11e8eea01bc1b05d6247bc2d26713c85ca89495fb70e5e0",
@@ -1879,54 +603,6 @@
     "version": "1.0.1-amd64",
     "container_hash": "fcc8c2629659f9ee16db713c6790959d8d95629ae3af621c4b81eb5f4b9aa8c5",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
-  },
-  {
-    "date": "2023-02-09",
-    "version": "1.0.2-rc.78-arm64",
-    "container_hash": "56b7aafd59d145fe5675e71eeec38b080b790a2a05a8bba17825302a239c9f3b",
-    "git_hash": "660e84da84fd029e64fa9331b565d1403f5807da"
-  },
-  {
-    "date": "2023-02-09",
-    "version": "1.0.2-rc.78-amd64",
-    "container_hash": "be6be288ed1dfe0bc45563e36bdb97b42c9f63e8903d4c687abecb3513319460",
-    "git_hash": "660e84da84fd029e64fa9331b565d1403f5807da"
-  },
-  {
-    "date": "2023-02-09",
-    "version": "1.0.2-rc.79-arm64",
-    "container_hash": "3da54e0a9d5a2b00795225f01a1ee473e3d51dfebef6e504b6e320f055fb0b5d",
-    "git_hash": "ad7d37e2ef7ea17042a4275543d7b0ac6158a429"
-  },
-  {
-    "date": "2023-02-09",
-    "version": "1.0.2-rc.79-amd64",
-    "container_hash": "16b8b5f67e683eedd6372442e9492f52541c6afb1a6b35d499fcf30927df5bb1",
-    "git_hash": "ad7d37e2ef7ea17042a4275543d7b0ac6158a429"
-  },
-  {
-    "date": "2023-02-10",
-    "version": "1.0.2-rc.80-arm64",
-    "container_hash": "2808cafaa4a2c2bbcc1a5dc2334abedd8633e13635cbf53a2246accfaca83d33",
-    "git_hash": "ba1427fba7b3fcb3645a202c80edbefe2ecbfa3c"
-  },
-  {
-    "date": "2023-02-10",
-    "version": "1.0.2-rc.80-amd64",
-    "container_hash": "b8f11312a665b3b76a3d8a5cda27476dec70b3d0352a00578d183ae4a31629e4",
-    "git_hash": "ba1427fba7b3fcb3645a202c80edbefe2ecbfa3c"
-  },
-  {
-    "date": "2023-02-10",
-    "version": "1.0.2-rc.81-arm64",
-    "container_hash": "c4fba562486f28c98e8444e9f76b8cdfeb61b35afbae5cc24021ceac51bc1b56",
-    "git_hash": "e268fe5dfa257ece5b7fc8abf598ccc8bbaa72f0"
-  },
-  {
-    "date": "2023-02-11",
-    "version": "1.0.2-rc.81-amd64",
-    "container_hash": "864cffbe2a3a2c5ce38814dbf0fda39a0dcc5186c81767167539524dbf1ea527",
-    "git_hash": "e268fe5dfa257ece5b7fc8abf598ccc8bbaa72f0"
   },
   {
     "date": "2023-02-14",
@@ -1965,42 +641,6 @@
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   },
   {
-    "date": "2023-02-21",
-    "version": "1.0.2-rc.82-arm64",
-    "container_hash": "57359f4baf59bcb43e51ba7fa6caa84b0d2e246dc857f13eb5238e763f74197d",
-    "git_hash": "6200093137fdc3167891b949f20d1cca140d5a99"
-  },
-  {
-    "date": "2023-02-21",
-    "version": "1.0.2-rc.82-amd64",
-    "container_hash": "315d8129d499d93777bb36dcd94c46dc013eb3b0472bd21f8137568ef165881b",
-    "git_hash": "6200093137fdc3167891b949f20d1cca140d5a99"
-  },
-  {
-    "date": "2023-02-21",
-    "version": "1.0.2-rc.83-arm64",
-    "container_hash": "0362caf5171fb7a8808ea5ca812f5d92ec58087c5a855e2b4b9adb117ea90906",
-    "git_hash": "2abb88f424e4896f6e0baadb14e26cc621500b2e"
-  },
-  {
-    "date": "2023-02-21",
-    "version": "1.0.2-rc.83-amd64",
-    "container_hash": "093cc4e6e560d7a1c1a07740bb5d6708fa83188645933f3d777908314f6458ce",
-    "git_hash": "2abb88f424e4896f6e0baadb14e26cc621500b2e"
-  },
-  {
-    "date": "2023-02-23",
-    "version": "1.0.2-rc.84-arm64",
-    "container_hash": "c927ea3adda54fcef23631413c5c7d78b2c4fd0245dcc3546559a381e93bba2b",
-    "git_hash": "df50e1ad98adb99016fb8fe61e2d7c7e72cfee10"
-  },
-  {
-    "date": "2023-02-23",
-    "version": "1.0.2-rc.84-amd64",
-    "container_hash": "02846a939a97a69d1e713a1952ebd4b36e995bd1ec1048127691a73893991318",
-    "git_hash": "df50e1ad98adb99016fb8fe61e2d7c7e72cfee10"
-  },
-  {
     "date": "2023-02-28",
     "version": "1.0.1-amd64",
     "container_hash": "381048abeb4e52470475dbaa57ffe591345a0e2cb41c01053822609021ad5cfb",
@@ -2017,42 +657,6 @@
     "version": "1.0.1-arm64",
     "container_hash": "7da79b97c9561051e3c116602e291b7281379b0f3cafcade8ba3e926f820bc68",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
-  },
-  {
-    "date": "2023-03-01",
-    "version": "1.0.2-rc.85-arm64",
-    "container_hash": "48d42067195c56870e94157fd0ef2d53e6e0b2c2a5c54ada0227fb20683841aa",
-    "git_hash": "11a72e853e84799d350dcee1286bc543387b35a6"
-  },
-  {
-    "date": "2023-03-01",
-    "version": "1.0.2-rc.85-amd64",
-    "container_hash": "f6c93afed33785cd0c848737562b2215ed6915ceb4632535be94b6ffd97fb8af",
-    "git_hash": "11a72e853e84799d350dcee1286bc543387b35a6"
-  },
-  {
-    "date": "2023-03-02",
-    "version": "1.0.2-rc.86-arm64",
-    "container_hash": "09f2f2e3d046bd7a2e4148336383d1ebfa6a268775d70885e6e7f96d37565f1a",
-    "git_hash": "b3d2692c1a330eb0da107312a4a3f7532948858c"
-  },
-  {
-    "date": "2023-03-02",
-    "version": "1.0.2-rc.86-amd64",
-    "container_hash": "75e7b84e9b420eeb8c6dc286e661ca11f5d138ea68c434c0760afb06a181837b",
-    "git_hash": "b3d2692c1a330eb0da107312a4a3f7532948858c"
-  },
-  {
-    "date": "2023-03-02",
-    "version": "1.0.2-rc.87-arm64",
-    "container_hash": "a299d76f48680e21319efed74a70c6d076b4d2ff5c607e968501b0b2b1ae49ff",
-    "git_hash": "fe4028658e5f87f92fe35d89d85f6fe9f4a710e1"
-  },
-  {
-    "date": "2023-03-02",
-    "version": "1.0.2-rc.87-amd64",
-    "container_hash": "1a93df209e2315e4a225b3a566aa4cb661639c9e021dd1f3b600393e0228b7f9",
-    "git_hash": "fe4028658e5f87f92fe35d89d85f6fe9f4a710e1"
   },
   {
     "date": "2023-03-07",
@@ -2073,78 +677,6 @@
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   },
   {
-    "date": "2023-03-08",
-    "version": "1.0.2-rc.88-arm64",
-    "container_hash": "25ae576519ff5e8bec38804e2aa1c565b4c8c8a5e0d77da1f2e80360ca146124",
-    "git_hash": "af73f8e05f1116efca93a81616d0329381b0b7a4"
-  },
-  {
-    "date": "2023-03-08",
-    "version": "1.0.2-rc.88-amd64",
-    "container_hash": "cc1ffbc4366aafcdcd8b9f7d8482df21847166ee047a3ee97a7213495df080d3",
-    "git_hash": "af73f8e05f1116efca93a81616d0329381b0b7a4"
-  },
-  {
-    "date": "2023-03-13",
-    "version": "1.0.2-rc.89-amd64",
-    "container_hash": "0ccba3e1025318133fabb6f8428d8565c0dc75fc191f628e16325f886578f385",
-    "git_hash": "3193fdd25b382ef3514b5e84e8248cdbcac29dba"
-  },
-  {
-    "date": "2023-03-13",
-    "version": "1.0.2-rc.90-amd64",
-    "container_hash": "75ab0cb1a611dcc66e62ed27738cfe1ca2229f3e499e4f532aea0544b4bebe12",
-    "git_hash": "992a7952e4a598656f32ef6289d9f85ccf97fc2c"
-  },
-  {
-    "date": "2023-03-13",
-    "version": "1.0.2-rc.92-amd64",
-    "container_hash": "d027b54050ec3bc5dd3355c0c9f962540a30eb02bdd3adf1ec66b69e8b21ca8f",
-    "git_hash": "7c83ca505b9ffca9f36ed3c13cfec806f72030c4"
-  },
-  {
-    "date": "2023-03-13",
-    "version": "1.0.2-rc.91-amd64",
-    "container_hash": "207b16d35b78fec53dbb8c53a35e1945f0480564fdfa4365898e2471ca143192",
-    "git_hash": "cc70ba48a08af4ab506d0a6d2d2fc2be755976a0"
-  },
-  {
-    "date": "2023-03-13",
-    "version": "1.0.2-rc.93-amd64",
-    "container_hash": "e9c20c9f8751c38e5bad03030f6e7bd1869d77f2c24c9c415d4a751ef65169ce",
-    "git_hash": "597742728e741152b1089e80cca1f8b5cd037e0c"
-  },
-  {
-    "date": "2023-03-13",
-    "version": "1.0.2-rc.89-arm64",
-    "container_hash": "e6eb0ed14043ade5ef5b325b02df024fe8bd6057071d1f4a1695e473c909092e",
-    "git_hash": "3193fdd25b382ef3514b5e84e8248cdbcac29dba"
-  },
-  {
-    "date": "2023-03-13",
-    "version": "1.0.2-rc.90-arm64",
-    "container_hash": "ea59cde6815c80601cb50b1c8d28c4cb410eba687ee2698384e0a5085e45bc88",
-    "git_hash": "992a7952e4a598656f32ef6289d9f85ccf97fc2c"
-  },
-  {
-    "date": "2023-03-13",
-    "version": "1.0.2-rc.91-arm64",
-    "container_hash": "7281e2698741d7614aaa4df1a3ffdf2b8dd7697c761c556ce42cb5867f5eaf20",
-    "git_hash": "cc70ba48a08af4ab506d0a6d2d2fc2be755976a0"
-  },
-  {
-    "date": "2023-03-13",
-    "version": "1.0.2-rc.92-arm64",
-    "container_hash": "c7fb3db047207df9a294deeb49c116a6e1276a076c4161a06a69126da9744a84",
-    "git_hash": "7c83ca505b9ffca9f36ed3c13cfec806f72030c4"
-  },
-  {
-    "date": "2023-03-13",
-    "version": "1.0.2-rc.93-arm64",
-    "container_hash": "db006773f3f496d0fbcc0163ca101386ac3f10234cd2783edf703e362696b4f0",
-    "git_hash": "597742728e741152b1089e80cca1f8b5cd037e0c"
-  },
-  {
     "date": "2023-03-14",
     "version": "1.0.1-amd64",
     "container_hash": "1edf969af5ae2c44f9083b1ce1c859927f1fd535411d329273a10b9d3bfae835",
@@ -2155,102 +687,6 @@
     "version": "1.0.0",
     "container_hash": "0300f34ef44d449c801ae8ffe44b23e0bc191876368e4e5013460b360b587085",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
-  },
-  {
-    "date": "2023-03-16",
-    "version": "1.0.2-rc.94-arm64",
-    "container_hash": "1062a0bffe627dabd6d4bb443a5316a3eea41179a861e89bb9cb575d01cc389f",
-    "git_hash": "789479c2c6dffef9d98dc0dbba8cd282e445fec5"
-  },
-  {
-    "date": "2023-03-17",
-    "version": "1.0.2-rc.94-amd64",
-    "container_hash": "3a36d95d0d1afcc82c740437b459cd4d4414bb5de72a24f761d14343549255eb",
-    "git_hash": "789479c2c6dffef9d98dc0dbba8cd282e445fec5"
-  },
-  {
-    "date": "2023-03-17",
-    "version": "1.0.2-rc.95-amd64",
-    "container_hash": "702ba08e0f2c4bd073c3599d22ab24c5853fe00a0c09fda52deafdd9f851b191",
-    "git_hash": "5019bc9c557a7ab7068d23ab621d53377ca540aa"
-  },
-  {
-    "date": "2023-03-17",
-    "version": "1.0.2-rc.96-amd64",
-    "container_hash": "984000282597ab690208c712f79f9197480a486be23c707a37765bdec32fe195",
-    "git_hash": "808f670d71f165bdd92eac42b49abc923ee2cd8c"
-  },
-  {
-    "date": "2023-03-16",
-    "version": "1.0.2-rc.95-arm64",
-    "container_hash": "26dab15522ee35dfdd8ce8431918fc81bc45bb00b075e0bdb0427f0e1ad45475",
-    "git_hash": "5019bc9c557a7ab7068d23ab621d53377ca540aa"
-  },
-  {
-    "date": "2023-03-16",
-    "version": "1.0.2-rc.96-arm64",
-    "container_hash": "fd8af2a546118165a484a5a7e878575031770634f5f4d88643efa4ded088c65d",
-    "git_hash": "808f670d71f165bdd92eac42b49abc923ee2cd8c"
-  },
-  {
-    "date": "2023-03-17",
-    "version": "1.0.2-rc.97-arm64",
-    "container_hash": "94e41b898ef796f3963bc299cc16ae231254cb53921f861d823f9e4d2a3c4942",
-    "git_hash": "013c5a3262ab82984a2d9ce2d40b08d1df3b4594"
-  },
-  {
-    "date": "2023-03-17",
-    "version": "1.0.2-rc.98-arm64",
-    "container_hash": "86ff04bb8fea9d52c8f80b1c68d14251ea2b31ddcad768cc43cda7c8355ace63",
-    "git_hash": "743866f3294310ac049dfd548d57bbe2ff6547aa"
-  },
-  {
-    "date": "2023-03-17",
-    "version": "1.0.2-rc.98-amd64",
-    "container_hash": "568fa6cd7ea90294a15a75707eecdd1f0bb55460bc65210b690f6fe41e8f0cc1",
-    "git_hash": "743866f3294310ac049dfd548d57bbe2ff6547aa"
-  },
-  {
-    "date": "2023-03-17",
-    "version": "1.0.2-rc.97-amd64",
-    "container_hash": "c4da590c5e54f08c3c6bcb59eea40bf47d856ee9d75b3f382f966acb093ecd14",
-    "git_hash": "013c5a3262ab82984a2d9ce2d40b08d1df3b4594"
-  },
-  {
-    "date": "2023-03-17",
-    "version": "1.0.2-rc.99-arm64",
-    "container_hash": "7d591938a317c656f10978658e6488bca159d9edb1d536b01d5f3d517c2034ca",
-    "git_hash": "aefd168732ce923d408f8681ce7872ce061e0cfe"
-  },
-  {
-    "date": "2023-03-17",
-    "version": "1.0.2-rc.99-amd64",
-    "container_hash": "9912304f0eceb75a7223273f3463cccc3a284093f4e1ff11593f067ce50a0068",
-    "git_hash": "aefd168732ce923d408f8681ce7872ce061e0cfe"
-  },
-  {
-    "date": "2023-03-21",
-    "version": "1.0.2-rc.100-arm64",
-    "container_hash": "a1d3cf36fcc55821edaa7852e96bfadec006cdca0d5df2a0cb3f167e5f33e989",
-    "git_hash": "334179070651899980527d7eb19d8f1976a0670b"
-  },
-  {
-    "date": "2023-03-21",
-    "version": "1.0.2-rc.100-amd64",
-    "container_hash": "7c1b9c3481aba16a41c2c8bfdfc0b3ca89fd9c0aebf07ca2dc35723c4a62f0a3",
-    "git_hash": "334179070651899980527d7eb19d8f1976a0670b"
-  },
-  {
-    "date": "2023-03-21",
-    "version": "1.0.2-rc.101-arm64",
-    "container_hash": "0abef19e3ceb38ed413f92b6a761b921fd0b0b56561719e4531c8939c7bf36b2",
-    "git_hash": "8d7b71ec0b1ba7a971a10589bfe2701163f84f0b"
-  },
-  {
-    "date": "2023-03-21",
-    "version": "1.0.2-rc.101-amd64",
-    "container_hash": "78ad5e45c69fab13f35c6da841a300a958ddd494c7c32f084b26f2574ca38748",
-    "git_hash": "8d7b71ec0b1ba7a971a10589bfe2701163f84f0b"
   },
   {
     "date": "2023-03-21",
@@ -2271,18 +707,6 @@
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   },
   {
-    "date": "2023-03-23",
-    "version": "2.0.0-rc.0-amd64",
-    "container_hash": "0ad582ae6a0f79e6ee9343ffb0244c0b196af30ab2e863517e7310164c7d0ce5",
-    "git_hash": "0104bcdd2ea0197eee32a98a34d0e64f1132c355"
-  },
-  {
-    "date": "2023-03-23",
-    "version": "2.0.0-rc.0-arm64",
-    "container_hash": "3186146ece8acd062d629e6994a6f6bf9198c478636cf173e6972a198c3df055",
-    "git_hash": "0104bcdd2ea0197eee32a98a34d0e64f1132c355"
-  },
-  {
     "date": "2023-03-27",
     "version": "2.0.0-amd64",
     "container_hash": "a12fdfe848ff77e7098561902f2fc880ea307af6c81485b0c9a31861ab71bffc",
@@ -2293,30 +717,6 @@
     "version": "2.0.0-arm64",
     "container_hash": "bf6f22fdd7955e5ba7ac7985705c8995c1e0bc6b57b7292857da9146c263d67d",
     "git_hash": "f6f53ee394c04c3e93a8ba55e18b19e30f80155a"
-  },
-  {
-    "date": "2023-03-27",
-    "version": "2.0.1-rc.0-amd64",
-    "container_hash": "d2d93069b8e54fa3fa83554b36b81f9341f1f131980b8024f22600683c99d3fc",
-    "git_hash": "46593883d9ab28eda1e23fbc425d7aca139762a6"
-  },
-  {
-    "date": "2023-03-27",
-    "version": "2.0.1-rc.0-arm64",
-    "container_hash": "306cfb04a925fbe96569ba807b3e6588669a1af8748571e384a3d6e9a8fac372",
-    "git_hash": "46593883d9ab28eda1e23fbc425d7aca139762a6"
-  },
-  {
-    "date": "2023-03-27",
-    "version": "2.0.1-rc.1-amd64",
-    "container_hash": "a76334b937a60f29dbb510bae36e661e74b6048592272f218802f3b698d250cc",
-    "git_hash": "43cb8fdb80d33acfef0767e8cc6b2d93a713351a"
-  },
-  {
-    "date": "2023-03-27",
-    "version": "2.0.1-rc.1-arm64",
-    "container_hash": "44c9b39272fbb5d4b91867dd7dc837fbd0e552b8f8f2fe9448de4bcab0fe6234",
-    "git_hash": "43cb8fdb80d33acfef0767e8cc6b2d93a713351a"
   },
   {
     "date": "2023-03-27",
@@ -2361,30 +761,6 @@
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   },
   {
-    "date": "2023-03-31",
-    "version": "2.0.2-rc.0-amd64",
-    "container_hash": "39f646bc4a7c95e3cb50c2f47158e56fa84886b1d0d7f33c5f1a23692182a2d0",
-    "git_hash": "4cdbd3d0470fc16e3a0e17d7807930292cc8c060"
-  },
-  {
-    "date": "2023-03-31",
-    "version": "2.0.2-rc.0-arm64",
-    "container_hash": "2e53659ff2440e715f638e0c207508390fc040287c11441fed42ce36728229e7",
-    "git_hash": "4cdbd3d0470fc16e3a0e17d7807930292cc8c060"
-  },
-  {
-    "date": "2023-04-03",
-    "version": "2.0.2-rc.1-amd64",
-    "container_hash": "52a8eb2adaf8bc01f819ed5a22f9385eab49af623ee3d9138fbc0dca9359dcf0",
-    "git_hash": "9ad1f6754ad1cc002f3d1cb44405a0415f9a1628"
-  },
-  {
-    "date": "2023-04-03",
-    "version": "2.0.2-rc.1-arm64",
-    "container_hash": "2214724bc1477817a735d17a96b4bf201d9c64210e67bb71a53ff68923991b9a",
-    "git_hash": "9ad1f6754ad1cc002f3d1cb44405a0415f9a1628"
-  },
-  {
     "date": "2023-04-04",
     "version": "2.0.1-amd64",
     "container_hash": "e2e5f6d38ee7cfc1ee9942fddbfcaca01baa81e8bacfde22e7073ff86fabc533",
@@ -2407,18 +783,6 @@
     "version": "1.0.0",
     "container_hash": "8847ed53fa5438ba175fe9f9a34e47e5f46fbf10f30d460b4030042268eadfc7",
     "git_hash": "745983ef05bfd9a67b1ebb9d90f6c5622fe1d597"
-  },
-  {
-    "date": "2023-04-04",
-    "version": "2.1.0-rc.0-amd64",
-    "container_hash": "bceb1447265a7f8f0796abb2bcb2539f16177955d9e5f68dff81ef0721684deb",
-    "git_hash": "b8d71069936eca41f76d1836e14d68af7b214601"
-  },
-  {
-    "date": "2023-04-04",
-    "version": "2.1.0-rc.0-arm64",
-    "container_hash": "4302f957fa8632f438eb5cf11c69d0503bcb186e434ebfe5889b38777c225ca0",
-    "git_hash": "b8d71069936eca41f76d1836e14d68af7b214601"
   },
   {
     "date": "2023-04-04",
@@ -2479,18 +843,6 @@
     "version": "1.0.1-arm64",
     "container_hash": "2a3f49e7161b3b17c486bfcd71735e26bc6cb2ba606a00bc46e4f21eb0545657",
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
-  },
-  {
-    "date": "2023-04-13",
-    "version": "2.1.1-rc.0-amd64",
-    "container_hash": "80348fef97bf7d97794a23e7b943abdf035f4e5094cff3f00634287cf727f541",
-    "git_hash": "eff468feddf50b7d8abe9bf7147a34d3f99bda5e"
-  },
-  {
-    "date": "2023-04-13",
-    "version": "2.1.1-rc.0-arm64",
-    "container_hash": "fd2984a0928858a1b56062b8caedf6769134a97b203552c58d25bdffd4030a4c",
-    "git_hash": "eff468feddf50b7d8abe9bf7147a34d3f99bda5e"
   },
   {
     "date": "2023-04-18",
@@ -2619,78 +971,6 @@
     "git_hash": "67d75b0523ae3f764eb6bbb5ca220c5bbae5ab3e"
   },
   {
-    "date": "2023-05-08",
-    "version": "2.2.0-rc.0-amd64",
-    "container_hash": "2034d40dbb96c883f8fb2851629e0d3715276f0ee4b37a307f6d26738f68685d",
-    "git_hash": "d13d6baaaa6f7d6988ae98250051fb49b1399616"
-  },
-  {
-    "date": "2023-05-08",
-    "version": "2.2.0-rc.0-arm64",
-    "container_hash": "5647b1882f1e58c150682792d480cb0cea38b95145e598eaa60d76aa8a963646",
-    "git_hash": "d13d6baaaa6f7d6988ae98250051fb49b1399616"
-  },
-  {
-    "date": "2023-05-19",
-    "version": "2.2.0-rc.1-amd64",
-    "container_hash": "c7cabe3456472fcabf8d2ce8a4186fb43d62c92acaa49365d506925e56b4d909",
-    "git_hash": "543e161964171ff918ae56c37787dcfd1b495cf2"
-  },
-  {
-    "date": "2023-05-19",
-    "version": "2.2.0-rc.1-arm64",
-    "container_hash": "561984269486f0b6468d9450053ff7e255598b6914eab70f93efad6ad261af4c",
-    "git_hash": "543e161964171ff918ae56c37787dcfd1b495cf2"
-  },
-  {
-    "date": "2023-05-24",
-    "version": "2.2.0-rc.2-amd64",
-    "container_hash": "1d9e0a759c98ee8849836aae1bb9cb920bb37b77caf2c3d59d5998b81476e94f",
-    "git_hash": "e8e02de330ca8287afbf313f6efa6a0a40b599bd"
-  },
-  {
-    "date": "2023-05-24",
-    "version": "2.2.0-rc.2-arm64",
-    "container_hash": "d8c05a2ee416e631b99fa2ea7e30475a2a3d3ee0cfa9a9abe06d9acca54737bd",
-    "git_hash": "e8e02de330ca8287afbf313f6efa6a0a40b599bd"
-  },
-  {
-    "date": "2023-05-26",
-    "version": "2.2.0-rc.3-amd64",
-    "container_hash": "c386735bca7038517f21fefe64f00633873049d0f95dcf9dc665167dc9728986",
-    "git_hash": "1e8d655d12c95a61738faa1e267ecf13d56af627"
-  },
-  {
-    "date": "2023-05-26",
-    "version": "2.2.0-rc.3-arm64",
-    "container_hash": "a8383d5dc0c46007dc421d09b1ef6ac3617fe51cf738d98da289a6148ff385b1",
-    "git_hash": "1e8d655d12c95a61738faa1e267ecf13d56af627"
-  },
-  {
-    "date": "2023-07-07",
-    "version": "2.2.0-rc.4-amd64",
-    "container_hash": "6d7ca5b774b197a0f834edb5eafa05941b70ee1751caabdafe65e1f90c1bf7ee",
-    "git_hash": "89facff828ecffe1497107332d84c1937d8a4288"
-  },
-  {
-    "date": "2023-07-07",
-    "version": "2.2.0-rc.4-arm64",
-    "container_hash": "cdcfba9c02206437590424ef980673a6f20ac14d0e9eb19be23dc8bf0c3af887",
-    "git_hash": "89facff828ecffe1497107332d84c1937d8a4288"
-  },
-  {
-    "date": "2023-07-10",
-    "version": "2.2.0-rc.5-amd64",
-    "container_hash": "6cf5a0c709d7740716bd01a0953d3c7e7c11a4781f87083f3c10cf2f8e58860e",
-    "git_hash": "3e68164bdd6ceff446e9f25fd2a92f562123cef0"
-  },
-  {
-    "date": "2023-07-10",
-    "version": "2.2.0-rc.5-arm64",
-    "container_hash": "6ac7a0957a5519b0c0f75a84e78082c6695375a05905048710cd4e7b2ef4f0c0",
-    "git_hash": "3e68164bdd6ceff446e9f25fd2a92f562123cef0"
-  },
-  {
     "date": "2023-07-18",
     "version": "2.2.0-amd64",
     "container_hash": "05c19e13da185539f0baa172edabf689a3ed09ada8a0410ca75d3073ace222ef",
@@ -2701,17 +981,5 @@
     "version": "2.2.0-arm64",
     "container_hash": "f1fa0d758e0cd753996bd78ac395c72c26bf71d6095a9518e35dae9cb5f3f855",
     "git_hash": "b321e5e377fb3354627dcd347a0022bd3c327891"
-  },
-  {
-    "date": "2023-08-16",
-    "version": "2.2.1-rc.0-amd64",
-    "container_hash": "2f56e61c1b2ceb092b40dcb033f4391ac1eee772e6e40393ba5d959856329664",
-    "git_hash": "aae5f9fbcd5daa5bc6eb357bd42a853085658b0e"
-  },
-  {
-    "date": "2023-08-16",
-    "version": "2.2.1-rc.0-arm64",
-    "container_hash": "f31be79d37fb505969af4ce794a371687ce743ada5e0554a166d7b6c145ba937",
-    "git_hash": "aae5f9fbcd5daa5bc6eb357bd42a853085658b0e"
   }
 ]
