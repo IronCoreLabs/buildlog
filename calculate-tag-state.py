@@ -90,11 +90,13 @@ def build_tag_state(buildlog_data: list) -> dict:
             major, minor, patch, arch = pad_none(
                 version.replace(".", "-").split("-"), 4
             )
-            tag_state[major] = digest
-            tag_state[f"{major}.{minor}"] = digest
-            tag_state[f"{major}.{minor}.{patch}"] = digest
             if arch:
                 tag_state[version] = digest
+                # TODO: need to create a manifest that gets all the else tags of both digests
+            else:
+                tag_state[major] = digest
+                tag_state[f"{major}.{minor}"] = digest
+                tag_state[f"{major}.{minor}.{patch}"] = digest
         else:
             print_error(
                 f"Buildlog entry found without associated container hash: {buildlog_entry}"
