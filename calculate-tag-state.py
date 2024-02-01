@@ -12,7 +12,7 @@ import sys
 split_version_re = re.compile("[.+-]")
 
 
-# distutils.version.LooseVersion is deprecated. packaging.version is the reccomended replacement but I'd like to
+# distutils.version.LooseVersion is deprecated. packaging.version is the recommended replacement but I'd like to
 # keep this script vanilla. This is an attempt at re-implementation good enough for our purposes.
 class LooseVersion:
     def __init__(self, s):
