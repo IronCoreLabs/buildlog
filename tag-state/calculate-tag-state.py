@@ -273,6 +273,7 @@ if __name__ == "__main__":
                             f"{gcr_image}-amd64",
                         ]
                     )
+                    # the more specific annotation of the first manifest seems to carry through to the others
                     subprocess.run(["docker", "manifest", "push", gcr_image])
                     subprocess.run(["docker", "manifest", "push", major_manifest_name])
                     subprocess.run(["docker", "manifest", "push", minor_manifest_name])
