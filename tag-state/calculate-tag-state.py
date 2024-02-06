@@ -132,7 +132,7 @@ def build_tag_state(buildlog_data: list) -> dict:
                     tag_state[manifest_semver] = {"digest": digest, "status": PENDING}
                 else:
                     tag_state[major] = {"digest": digest, "status": PENDING}
-                    tag_state[f"{major}.{minor}"] = {
+                    tag_state[medium_tag] = {
                         "digest": digest,
                         "status": PENDING,
                     }
