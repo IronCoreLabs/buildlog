@@ -294,6 +294,6 @@ if __name__ == "__main__":
                             "manifest",
                             "push",
                             "--purge",
-                            minor_manifest_nameanifest_name,
+                            minor_manifest_name,
                         ]
                     )
