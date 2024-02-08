@@ -99,9 +99,13 @@ def build_tag_state(buildlog_data: list) -> dict:
         if "container_hash" in buildlog_entry and "version" in buildlog_entry:
             version = buildlog_entry["version"]
             digest = buildlog_entry["container_hash"]
-            major, minor, patch, arch = pad_none(
-                version.replace(".", "-").split("-"), 4
-            )
+            try:
+                major, minor, patch, arch = pad_none(
+                    version.replace(".", "-").split("-"), 4
+                )
+            except:
+                print_error(f"Skipping pre-release tag {version}")
+                continue
             manifest_semver = f"{major}.{minor}.{patch}"
             medium_tag = f"{major}.{minor}"
             if arch:
@@ -170,7 +174,7 @@ if __name__ == "__main__":
             )
             pull = subprocess.run(["docker", "image", "pull", image_name_by_digest])
             # tag with the new value
-            if pull.returncode is 0:
+            if pull.returncode == 0:
                 tag = subprocess.run(
                     [
                         "docker",
@@ -180,11 +184,11 @@ if __name__ == "__main__":
                         f"gcr.io/ironcore-images/{image_name}:{key}",
                     ]
                 )
-                if tag.returncode is 0:
+                if tag.returncode == 0:
                     push = subprocess.run(
                         ["docker", "push", f"gcr.io/ironcore-images/{image_name}:{key}"]
                     )
-                    if push.returncode is 0:
+                    if push.returncode == 0:
                         value["status"] = SUCCESS
                         continue
             value["status"] = FAILED
@@ -220,7 +224,7 @@ if __name__ == "__main__":
                     f"{gcr_image}-amd64",
                 ]
             )
-            if create_manifest.returncode is 0:
+            if create_manifest.returncode == 0:
                 annotate_manifest_arm = subprocess.run(
                     [
                         "docker",
@@ -245,19 +249,24 @@ if __name__ == "__main__":
                 )
                 # if creation and annotation worked, push the new manifest
                 if (
-                    annotate_manifest_arm.returncode is 0
-                    and annotate_manifest_amd.returncode is 0
+                    annotate_manifest_arm.returncode == 0
+                    and annotate_manifest_amd.returncode == 0
                 ):
                     # rebuilds aren't a factor now and the tags are semver sorted, so the last writer is the right one
                     major_manifest_name = f"gcr.io/ironcore-images/{image_name}:{major}"
                     minor_manifest_name = (
                         f"gcr.io/ironcore-images/{image_name}:{major}.{minor}"
                     )
+                    # you can't create a manifest to move it if you've already created it locally without amending
+                    # unfortunately if you _do_ amend it just adds the new images to the mafest list instead of moving the tag.
+                    # we try to get around this by purging on push so each create is "new"
+                    # TODO: this isn't currently working, so major/minors need to be manually checked and moved afterwards
                     subprocess.run(
                         [
                             "docker",
                             "manifest",
                             "create",
+                            "--amend",
                             major_manifest_name,
                             f"{gcr_image}-arm64",
                             f"{gcr_image}-amd64",
@@ -268,12 +277,23 @@ if __name__ == "__main__":
                             "docker",
                             "manifest",
                             "create",
+                            "--amend",
                             minor_manifest_name,
                             f"{gcr_image}-arm64",
                             f"{gcr_image}-amd64",
                         ]
                     )
                     # the more specific annotation of the first manifest seems to carry through to the others
-                    subprocess.run(["docker", "manifest", "push", gcr_image])
-                    subprocess.run(["docker", "manifest", "push", major_manifest_name])
-                    subprocess.run(["docker", "manifest", "push", minor_manifest_name])
+                    subprocess.run(["docker", "manifest", "push", "--purge", gcr_image])
+                    subprocess.run(
+                        ["docker", "manifest", "push", "--purge", major_manifest_name]
+                    )
+                    subprocess.run(
+                        [
+                            "docker",
+                            "manifest",
+                            "push",
+                            "--purge",
+                            minor_manifest_nameanifest_name,
+                        ]
+                    )
