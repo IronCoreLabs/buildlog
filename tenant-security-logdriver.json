@@ -2019,5 +2019,11 @@
     "version": "4.1.1-amd64",
     "container_hash": "083e0c6591a6560883ae8181550b1d1106117b3fbaf39d8d6055d730177151c8",
     "git_hash": "e55e09511cf40fc9d932afb4984c0028acb4b998"
+  },
+  {
+    "date": "2024-02-27",
+    "version": "4.2.0-amd64",
+    "container_hash": "8a2d647ed56bde133b771292c2a5f4406c0da65975ec5b1f35830c2d6bb265fb",
+    "git_hash": "47dde7af28d0620568288c020717f08c1e8af0a6"
   }
 ]
