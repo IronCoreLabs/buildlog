@@ -2025,5 +2025,11 @@
     "version": "4.2.0-amd64",
     "container_hash": "8a2d647ed56bde133b771292c2a5f4406c0da65975ec5b1f35830c2d6bb265fb",
     "git_hash": "47dde7af28d0620568288c020717f08c1e8af0a6"
+  },
+  {
+    "date": "2024-02-27",
+    "version": "4.2.0-arm64",
+    "container_hash": "0a90d5ef236b0ac8f3fcf5bd3c590e4db833b21ad97cfbeee23cb38d2753e858",
+    "git_hash": "47dde7af28d0620568288c020717f08c1e8af0a6"
   }
 ]
