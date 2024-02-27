@@ -2013,5 +2013,11 @@
     "version": "4.3.0-arm64",
     "container_hash": "2ba4fb01b84f53f35dc437fde86c586aa7f2d47e146bc1c7b14fe394e83c7a26",
     "git_hash": "6288cc5177aaea518c2df212fd4376deb94258ac"
+  },
+  {
+    "date": "2024-02-27",
+    "version": "4.1.1-amd64",
+    "container_hash": "083e0c6591a6560883ae8181550b1d1106117b3fbaf39d8d6055d730177151c8",
+    "git_hash": "e55e09511cf40fc9d932afb4984c0028acb4b998"
   }
 ]
