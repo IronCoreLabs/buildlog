@@ -4872,5 +4872,11 @@
     "version": "5.0.1-amd64",
     "container_hash": "8d85c533504a03fcf6e06d0f853701065e398193a95437f207b1992831fe2d54",
     "git_hash": "cef987db20ae83b1b4059b6a685ecfc6d74d95cc"
+  },
+  {
+    "date": "2025-02-19",
+    "version": "5.0.1-arm64",
+    "container_hash": "0f584dfb7e0e8b2efe7871b1a76a07f3db57daf6e41829fca59a47907939e26d",
+    "git_hash": "cef987db20ae83b1b4059b6a685ecfc6d74d95cc"
   }
 ]
