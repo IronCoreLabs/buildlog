@@ -5010,5 +5010,11 @@
     "version": "4.12.2-arm64",
     "container_hash": "f1930362ccbc4edb7f3cd5e816c86b05bfa8bd6b578e509cad04ec0d1c91d4f4",
     "git_hash": "16f355ece15ab8253a3aab7c3dd630c7ca6aa588"
+  },
+  {
+    "date": "2025-02-20",
+    "version": "4.12.1-amd64",
+    "container_hash": "499cc8f6c8a0cbea7ae9d194c7f234800aaf287349f7174ff73be0aef48f669c",
+    "git_hash": "54c942a5cda311699b04a497b858a22e55a0944f"
   }
 ]
