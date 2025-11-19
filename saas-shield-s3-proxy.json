@@ -1961,5 +1961,11 @@
     "version": "1.8.0-arm64",
     "container_hash": "bd3dff7399a21bab3276269d141dcdbaf3e7a8b700cbd12c40db5a7e0409fdd9",
     "git_hash": "5316207eb6774495d1ecb43028cce0f9b2351159"
+  },
+  {
+    "date": "2025-11-19",
+    "version": "1.7.0-amd64",
+    "container_hash": "d443bb3956b6a5fe2ff89e4aa5e9722d3ae5108e4a27b9e251615420ea1dbfd3",
+    "git_hash": "abb80a9c7a2f3e5c3ae6a82be2c91cc5a87a3346"
   }
 ]
