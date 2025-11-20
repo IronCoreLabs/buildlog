@@ -1973,5 +1973,11 @@
     "version": "1.7.0-arm64",
     "container_hash": "ffa47c9e891dcd5d978262c67a924c7269a6762d2fbb948b785321dd9b755a57",
     "git_hash": "abb80a9c7a2f3e5c3ae6a82be2c91cc5a87a3346"
+  },
+  {
+    "date": "2025-11-20",
+    "version": "1.8.1-amd64",
+    "container_hash": "49b834f3d11688aa973de1473fb1d93efee00d3e58119d9f408c0aaa0ff3fde7",
+    "git_hash": "2d5c540a84ca63019fd51c24d21919347dccbbdd"
   }
 ]
