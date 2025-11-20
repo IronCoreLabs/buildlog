@@ -1979,5 +1979,11 @@
     "version": "1.8.1-amd64",
     "container_hash": "49b834f3d11688aa973de1473fb1d93efee00d3e58119d9f408c0aaa0ff3fde7",
     "git_hash": "2d5c540a84ca63019fd51c24d21919347dccbbdd"
+  },
+  {
+    "date": "2025-11-20",
+    "version": "1.8.1-arm64",
+    "container_hash": "83bb82c81479779755a57b46fc2954159b849abe7ef2ad7fb5c7c781f5400651",
+    "git_hash": "2d5c540a84ca63019fd51c24d21919347dccbbdd"
   }
 ]
