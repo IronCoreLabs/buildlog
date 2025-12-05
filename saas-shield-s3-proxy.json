@@ -1997,5 +1997,11 @@
     "version": "1.9.0-arm64",
     "container_hash": "b4ea817f91a3058d637ae6e48e8c609e01135237cc0b383065a86334681f63b9",
     "git_hash": "36171cf3e1dc5ea1264b30ae60f87e4074272fe3"
+  },
+  {
+    "date": "2025-12-05",
+    "version": "1.9.0-arm64",
+    "container_hash": "e3a9dcb051abf68cd0cbdbebd626a816593ae3bcb6984a6d7a4650c1117eaaea",
+    "git_hash": "b6d6d9b16bcd21bcb9a5481b7bff6b64a7c31835"
   }
 ]
