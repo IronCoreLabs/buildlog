@@ -2033,5 +2033,11 @@
     "version": "1.8.0-arm64",
     "container_hash": "69860eabacd617f487d77cf71902e95b60edceb96a2c44fa52e2abe5f47c5d30",
     "git_hash": "5316207eb6774495d1ecb43028cce0f9b2351159"
+  },
+  {
+    "date": "2025-12-10",
+    "version": "1.9.0-amd64",
+    "container_hash": "3c95a44000ca879643f8af10cb47d077d6cfd28af6ea2e2d823a84146a3adc5c",
+    "git_hash": "36171cf3e1dc5ea1264b30ae60f87e4074272fe3"
   }
 ]
