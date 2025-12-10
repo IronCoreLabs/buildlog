@@ -2009,5 +2009,11 @@
     "version": "1.9.0-amd64",
     "container_hash": "2b79eea6e58c21dfd0fa1bc8cf650e744ec041196f189677e15e2266787a445a",
     "git_hash": "b6d6d9b16bcd21bcb9a5481b7bff6b64a7c31835"
+  },
+  {
+    "date": "2025-12-10",
+    "version": "1.5.0-arm64",
+    "container_hash": "833d507ce09dd3b7e72d541633d33d46f67078246716a808bc0e760b44bb3411",
+    "git_hash": "52fa34b7ef50c4be7475459498dfa245fa41616f"
   }
 ]
