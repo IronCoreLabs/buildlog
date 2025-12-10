@@ -2027,5 +2027,11 @@
     "version": "1.8.0-amd64",
     "container_hash": "72c12f8b9bdfdff57f4a53d825de0621d0bdd7c2b14a1845fc414dc54ccde9b8",
     "git_hash": "5316207eb6774495d1ecb43028cce0f9b2351159"
+  },
+  {
+    "date": "2025-12-10",
+    "version": "1.8.0-arm64",
+    "container_hash": "69860eabacd617f487d77cf71902e95b60edceb96a2c44fa52e2abe5f47c5d30",
+    "git_hash": "5316207eb6774495d1ecb43028cce0f9b2351159"
   }
 ]
