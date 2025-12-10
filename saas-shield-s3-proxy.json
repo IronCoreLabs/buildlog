@@ -2021,5 +2021,11 @@
     "version": "1.5.0-amd64",
     "container_hash": "5e4b0ec3a7a591f8dcba774ec9f0363ebfb5dbfa16befa76afaa01b0f12a3f37",
     "git_hash": "52fa34b7ef50c4be7475459498dfa245fa41616f"
+  },
+  {
+    "date": "2025-12-10",
+    "version": "1.8.0-amd64",
+    "container_hash": "72c12f8b9bdfdff57f4a53d825de0621d0bdd7c2b14a1845fc414dc54ccde9b8",
+    "git_hash": "5316207eb6774495d1ecb43028cce0f9b2351159"
   }
 ]
