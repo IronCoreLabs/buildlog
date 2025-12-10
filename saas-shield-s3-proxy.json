@@ -2015,5 +2015,11 @@
     "version": "1.5.0-arm64",
     "container_hash": "833d507ce09dd3b7e72d541633d33d46f67078246716a808bc0e760b44bb3411",
     "git_hash": "52fa34b7ef50c4be7475459498dfa245fa41616f"
+  },
+  {
+    "date": "2025-12-10",
+    "version": "1.5.0-amd64",
+    "container_hash": "5e4b0ec3a7a591f8dcba774ec9f0363ebfb5dbfa16befa76afaa01b0f12a3f37",
+    "git_hash": "52fa34b7ef50c4be7475459498dfa245fa41616f"
   }
 ]
