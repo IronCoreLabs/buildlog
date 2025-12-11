@@ -2111,5 +2111,11 @@
     "version": "1.7.0-arm64",
     "container_hash": "e7c4ed7a1ef2b9e5c8f3cbb1da247013bf5cb27b6ea78beaa64704aa340cfc95",
     "git_hash": "abb80a9c7a2f3e5c3ae6a82be2c91cc5a87a3346"
+  },
+  {
+    "date": "2025-12-11",
+    "version": "1.6.0-arm64",
+    "container_hash": "cd6c027313b5a40a324de74c46a0b728c5f28139413d9a1643e4c49637611962",
+    "git_hash": "5ce8adf98c59cb63a474c4deb469ae8d391f0c05"
   }
 ]
