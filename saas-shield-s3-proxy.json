@@ -2135,5 +2135,11 @@
     "version": "1.10.1-amd64",
     "container_hash": "5ad5c1ef2f0d7fbefa62a31194a1d6734c2b53e3b3c22f64c78f16f7f1ce473e",
     "git_hash": "a80d58b622511b40bf65ed18422bee471832b2f6"
+  },
+  {
+    "date": "2026-01-06",
+    "version": "1.10.1-arm64",
+    "container_hash": "1ffb912fc61f6faac4f314ffe716aea19fdef3d987992b2770b5c72a2488f503",
+    "git_hash": "a80d58b622511b40bf65ed18422bee471832b2f6"
   }
 ]
