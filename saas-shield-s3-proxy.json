@@ -4073,5 +4073,11 @@
     "version": "1.11.0-arm64",
     "container_hash": "44b61727ad5a59d8c48a7c9c4c75f8a4fbf241f6a2a1a9f7d6f8f8c89d967304",
     "git_hash": "f663fc559d768132a8505f2d385ade3d26bc6697"
+  },
+  {
+    "date": "2026-06-17",
+    "version": "1.5.2-amd64",
+    "container_hash": "e65ce437935d5470558cc9bf7a0ba043a303a2294d8dc846ea901d47086b8f77",
+    "git_hash": "5864e518936f1f502e9b3e543e9170446582fc33"
   }
 ]
