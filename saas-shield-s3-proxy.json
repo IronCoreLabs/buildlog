@@ -5681,5 +5681,11 @@
     "version": "1.7.0-amd64",
     "container_hash": "ab5c0e429aba94e5e09aa7a6ae8c5194008e8991fa4e295c06154203a2b01a89",
     "git_hash": "abb80a9c7a2f3e5c3ae6a82be2c91cc5a87a3346"
+  },
+  {
+    "date": "2026-11-10",
+    "version": "1.8.1-arm64",
+    "container_hash": "0186415035a59561d6d4ba7b7507b4fcfed1c7cf4a7a551ffa1b19fc5c43fab5",
+    "git_hash": "2d5c540a84ca63019fd51c24d21919347dccbbdd"
   }
 ]
